@@ -1,41 +1,42 @@
 class Solution {
 public:
-    bool possible(vector<int>& bloomday, int mid , int m , int k){
-        int n = bloomday.size();
-        int bouquets = 0;
-        int flowers = 0;
-
-        for (int i = 0; i < n; i++) {
-            if (bloomday[i] <= mid) {
-                flowers++;
-                if (flowers == k) {
-                    bouquets++;
-                    flowers = 0;
+    bool func(vector<int>&bloom,int m,int k,int mid){
+        int n=bloom.size();
+        int bou=0;
+        int flo=0; 
+        for(int i=0;i<n;i++){
+            if(bloom[i]<=mid){
+                flo++;
+                if(flo==k) {
+                    bou++;
+                    flo=0;
                 }
-            } else {
-                flowers = 0;  // reset because flowers need to be adjacent
+            }
+            else{
+                flo=0; //reset
+                //as they need to be adjacent
             }
         }
-
-        return bouquets >= m;
+        if(bou>=m) return 1;
+        return 0;
     }
-    int minDays(vector<int>& bloomday, int m, int k) {
-        if (1LL*m * k > bloomday.size())
-            return -1;
-        // my answer will lie between min element and maxel of array
-        int mini = *min_element(bloomday.begin(), bloomday.end());
-        int maxi = *max_element(bloomday.begin(), bloomday.end());
-        int low = mini;
-        int high = maxi;
+    int minDays(vector<int>& bloom, int m, int k) {
+        if((long long)m*k> bloom.size()) return -1;
+        int n=bloom.size();
+        int l=1;
         int ans=-1;
-        while (low <= high) {
-            int mid=(low+high)/2;
-            if(possible(bloomday,mid,m,k)){
+        int h=*max_element(bloom.begin(),bloom.end());
+        while(l<=h){
+            int mid=l+(h-l)/2;
+            if(func(bloom,m,k,mid)){
                 ans=mid;
-                high=mid-1;
+                h=mid-1; //chota ans dhudne ka try krenge
             }
-            else low=mid+1;
+            else{
+                l=mid+1;
+            }
         }
         return ans;
+
     }
 };
