@@ -15,6 +15,6 @@ const int P=int(1e9)+7;
             ans+=len*(len+1)/2;
             l=r;
         }
-        return ans;
+        return ans%P;
     }
 };
