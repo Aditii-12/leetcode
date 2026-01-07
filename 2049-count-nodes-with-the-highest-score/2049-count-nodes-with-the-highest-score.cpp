@@ -9,12 +9,14 @@ public:
         ll score=1; //isme we will multiply
         ll sz=0; //child size(left and right alg se)
 
-        for(int v:tree[u]){
-            ll childsz=dfs(v);
-            score*=childsz;
-            sz+=childsz; //to find the 
+        for(int v:tree[u]){ //seeing child of that node
+            ll childsz=dfs(v); //fir particulr child me dfs krenge
+            score*=childsz; //score me left child ka and then right child ka sum mutiply krenge
+            sz+=childsz; //to find that subtree[n] ;
+            //which can be letter used to calculate the size of parent side
+            //after removing n-subtree[n] which is size
         }
-        ll rest=n-sz-1;
+        ll rest=n-sz-1; //-1 because removing that node too
         if(rest>0){
             score*=rest;
         }
