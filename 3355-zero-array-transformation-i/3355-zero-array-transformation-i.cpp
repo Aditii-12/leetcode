@@ -1,24 +1,22 @@
 class Solution {
 public:
     bool isZeroArray(vector<int>& nums, vector<vector<int>>& queries) {
-        vector<int> deltaArray(nums.size() + 1, 0);
-        for (const auto& query : queries) {
-            int left = query[0];
-            int right = query[1];
-            deltaArray[left] += 1;
-            deltaArray[right + 1] -= 1;
+        int n=nums.size();
+        int m=queries.size();
+        vector<int>diff(n+1,0);
+        for(auto it:queries){
+            int l=it[0];
+            int r=it[1];
+            diff[l]--;
+            diff[r+1]++;
         }
-        vector<int> operationCounts;
-        int currentOperations = 0;
-        for (int delta : deltaArray) {
-            currentOperations += delta;
-            operationCounts.push_back(currentOperations);
+        int curr = 0;
+        for (int i=0;i<n;i++) {
+            curr+=diff[i];          
+            if (nums[i]+curr>0)  
+                return 0;
         }
-        for (int i = 0; i < nums.size(); ++i) {
-            if (operationCounts[i] < nums[i]) {
-                return false;
-            }
-        }
-        return true;
+        return 1;
+        
     }
 };
