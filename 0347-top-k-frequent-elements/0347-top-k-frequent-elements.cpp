@@ -7,8 +7,8 @@ public:
         priority_queue<pair<int,int>,vector<pair<int,int>>,greater<>>pq;
 
         for (auto &it:mpp) {
-            pq.push({it.second,it.first});
-            if(pq.size()>k) pq.pop();
+            pq.push({it.second,it.first}); //freq,number
+            if(pq.size()>k) pq.pop(); //to pq sif top k elements hi store kregi 
         }
 
         vector<int> ans;
