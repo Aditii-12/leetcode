@@ -6,7 +6,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 
 ### 👩‍💻 About Me (LeetCode)
 - **Profile:** https://leetcode.com/u/aditisahu12/
-- **Problems Solved So Far:** 480+ ✅
+- **Problems Solved So Far:** 600+ ✅
 - Actively improving **problem-solving & optimization skills** 💪
 
 ---
@@ -41,7 +41,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ---
 
 ### 🎯 Goals
-- Reach **600+ solved** soon 🎯
+- Reach **800+ solved** soon 🎯
 - Focus more on **Medium & Hard** problems
 - Build interview-ready confidence 👌
 
