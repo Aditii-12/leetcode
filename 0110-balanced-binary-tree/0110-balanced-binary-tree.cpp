@@ -11,17 +11,17 @@
  */
 class Solution {
 public:
-    int maxDepth(TreeNode* root) {
-        if(root==nullptr) return 0;
-         int l=maxDepth(root->left);
-         int r=maxDepth(root->right);
-         return 1+max(l,r);
-         }
+    int maxd(TreeNode* root){
+        if(!root) return 0;
+        int l=maxd(root->left);
+        int r=maxd(root->right);
+        return 1+max(l,r);
+    }
     bool isBalanced(TreeNode* root) {
-        if(root==nullptr) return true;
-        int hl=maxDepth(root->left);
-        int hr=maxDepth(root->right);
-        if(abs(hl-hr)>1) return false;
+        if(!root) return 1;
+        int hl=maxd(root->left);
+        int hr=maxd(root->right);
+        if(abs(hl-hr)>1) return 0;
         return isBalanced(root->left) && isBalanced(root->right);
     }
 };
