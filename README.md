@@ -61,6 +61,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Aditii-12/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Aditii-12/leetcode/tree/main/0015-3sum/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Aditii-12/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditii-12/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditii-12/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aditii-12/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -105,6 +106,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0076-minimum-window-substring](https://github.com/Aditii-12/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Aditii-12/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Aditii-12/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Aditii-12/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditii-12/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aditii-12/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Hash Table
@@ -114,6 +116,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0076-minimum-window-substring](https://github.com/Aditii-12/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Aditii-12/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Aditii-12/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Aditii-12/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
