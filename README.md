@@ -101,6 +101,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aditii-12/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aditii-12/leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Aditii-12/leetcode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditii-12/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aditii-12/leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Aditii-12/leetcode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
