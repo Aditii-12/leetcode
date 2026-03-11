@@ -2,7 +2,7 @@ class Solution {
 public:
     bool func(int mid,vector<int>& piles, int h){
         int n=piles.size();
-        int hours=0;
+        long long hours=0;
         for(int i=0;i<n;i++){
             hours+=ceil((double)piles[i]/mid);
         }
