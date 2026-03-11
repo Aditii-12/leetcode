@@ -5,6 +5,7 @@ public:
         long long hours=0;
         for(int i=0;i<n;i++){
             hours+=ceil((double)piles[i]/mid);
+            if(hours>h) return false;
         }
         return hours<=h;
     }
