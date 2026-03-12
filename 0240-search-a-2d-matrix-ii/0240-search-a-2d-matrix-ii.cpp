@@ -6,11 +6,11 @@ public:
         int row=0;
         int col=m-1;
         while(row<n && col>=0){
-            if(matrix[row][col]==target) return true;
-            else if(matrix[row][col]>target) col--;
+            if(matrix[row][col]==target) return 1;
+            if(matrix[row][col]>target) col--;
             else row++;
         }
         return 0;
-
+        
     }
 };
