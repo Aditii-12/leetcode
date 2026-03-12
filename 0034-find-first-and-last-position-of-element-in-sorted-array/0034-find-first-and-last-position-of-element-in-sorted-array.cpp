@@ -1,37 +1,31 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        int n = nums.size();
-        int low = 0, high = n - 1;
-        int first = -1, last = -1;
-
-        // Find first occurrence
-        while (low <= high) {
-            int mid = (low + high) / 2;
-            if (nums[mid] == target) {
-                first = mid;
-                high = mid - 1;  // continue searching on the left
-            } else if (nums[mid] < target) {
-                low = mid + 1;
-            } else {
-                high = mid - 1;
+        int n=nums.size();
+        int lo=0;
+        int hi=n-1;
+        int f=-1;
+        int l=-1;
+        while(lo<=hi){
+            int mid=lo+(hi-lo)/2;
+            if(nums[mid]==target){
+                f=mid;
+                hi=mid-1;
             }
+            else if(nums[mid]<target) lo=mid+1;
+            else hi=mid-1;
         }
-
-        // Find last occurrence
-        low = 0; high = n - 1;
-        while (low <= high) {
-            int mid = (low + high) / 2;
-            if (nums[mid] == target) {
-                last = mid;
-                low = mid + 1;  // continue searching on the right
-            } else if (nums[mid] < target) {
-                low = mid + 1;
-            } else {
-                high = mid - 1;
+        lo=0;
+        hi=n-1;
+         while(lo<=hi){
+            int mid=lo+(hi-lo)/2;
+            if(nums[mid]==target){
+                l=mid;
+                lo=mid+1;
             }
+            else if(nums[mid]<target) lo=mid+1;
+            else hi=mid-1;
         }
-
-        return {first, last};
+        return {f,l};
     }
 };
