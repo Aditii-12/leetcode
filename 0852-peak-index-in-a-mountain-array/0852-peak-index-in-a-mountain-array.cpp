@@ -1,14 +1,19 @@
 class Solution {
 public:
     int peakIndexInMountainArray(vector<int>& arr) {
-    int l=0;
-    int h=arr.size()-1;
-    while(l<h){
-        int m=l+(h-l)/2;
-        if(arr[m]<arr[m+1]) l=m+1;
-        else h=m;
-    }
-    return l;
-    //can be h also,since l and h meets at peak element
+        int n=arr.size();
+        int lo=1;
+        int hi=n-2;
+        while(lo<=hi){
+            int mid=lo+(hi-lo)/2;
+            if(arr[mid]>arr[mid-1] && arr[mid]>arr[mid+1]){
+                return mid;
+            }
+            else if(arr[mid]>arr[mid-1]) { //abi tk increasing wale part me h
+                lo=mid+1;
+            }
+            else hi=mid-1;
+        }
+        return 0;
     }
 };
