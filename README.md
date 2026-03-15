@@ -220,6 +220,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Aditii-12/leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditii-12/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -233,4 +234,12 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aditii-12/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Aditii-12/leetcode/tree/main/1622-fancy-sequence/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Aditii-12/leetcode/tree/main/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
