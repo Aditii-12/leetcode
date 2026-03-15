@@ -70,6 +70,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0162-find-peak-element](https://github.com/Aditii-12/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditii-12/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditii-12/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0275-h-index-ii](https://github.com/Aditii-12/leetcode/tree/main/0275-h-index-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditii-12/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aditii-12/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditii-12/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -189,6 +190,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0162-find-peak-element](https://github.com/Aditii-12/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditii-12/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditii-12/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0275-h-index-ii](https://github.com/Aditii-12/leetcode/tree/main/0275-h-index-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditii-12/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aditii-12/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditii-12/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
