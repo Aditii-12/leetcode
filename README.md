@@ -82,6 +82,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aditii-12/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Aditii-12/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/Aditii-12/leetcode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditii-12/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Aditii-12/leetcode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Greedy
@@ -89,6 +90,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Aditii-12/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditii-12/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/Aditii-12/leetcode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditii-12/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aditii-12/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Matrix
@@ -176,6 +178,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0075-sort-colors](https://github.com/Aditii-12/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aditii-12/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aditii-12/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/Aditii-12/leetcode/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +213,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/Aditii-12/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Aditii-12/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/Aditii-12/leetcode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditii-12/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Math
 | Problem Name | Difficulty |
