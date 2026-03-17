@@ -1,26 +1,23 @@
 class Solution {
 public:
-    int minSubarray(vector<int>& nums, int k) {
-        long long tot=0;
-        for(auto it:nums){
-            tot+=it;
-        }
-        long long rem=tot%k;
-        if(rem==0) return 0; //already divisible h
-        unordered_map<int,int>mpp; //last seen where
+    int minSubarray(vector<int>& nums, int p) {
+        int n=nums.size();
+        unordered_map<int,int>mpp;
+        long long sum=accumulate(nums.begin(),nums.end(),0LL);
+        long long rem=sum%p;
+        if(rem==0) return 0;
         mpp[0]=-1;
-
-        int sum=0; //to prefix sum
-        int ans=nums.size(); //worst case
-        for(int i=0;i<nums.size();i++){
-            sum+=nums[i];
-            int target=(sum%k -rem+k)%k; //to handle negative case
-            if(mpp.find(target)!=mpp.end()){
-                ans=min(ans,i-mpp[target]);
+        int ans=INT_MAX;
+        long long pre=0;
+        for(int i=0;i<n;i++){
+            pre+=nums[i];
+            int tar=(pre%p-rem+p)%p;
+            if(mpp.find(tar)!=mpp.end()){
+                ans=min(ans,i-mpp[tar]);
             }
-            mpp[(sum%k)]=i; //always store bdi index tbi length choti ayegi
+            mpp[pre%p]=i;
         }
-        return ans==nums.size()?-1:ans;
-
+        if(ans==INT_MAX || ans==n) return -1;
+        return ans;        
     }
 };
