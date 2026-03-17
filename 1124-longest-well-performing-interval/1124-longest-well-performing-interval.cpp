@@ -14,8 +14,8 @@ public:
                 if(mpp.find(cnt-1)!=mpp.end()){
                     ans=max(ans,i-mpp[cnt-1]);
                 }
-                else mpp[cnt-1]=i;
             }
+            if(mpp.find(cnt)==mpp.end()) mpp[cnt]=i;
         }
         return ans;
 
