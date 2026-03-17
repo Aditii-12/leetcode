@@ -2,17 +2,17 @@ class Solution {
 public:
     int subarraysDivByK(vector<int>& nums, int k) {
         int n=nums.size();
-        map<int,int>mpp;
-        mpp[0]=1; //rem 0 appears 1 time
+        unordered_map<int,int>mpp;
+        mpp[0]=1;
         int sum=0;
+        int ans=0;
         for(int i=0;i<n;i++){
             sum+=nums[i];
-            int st=(sum%k+k)%k; //to abvoid neg
-            mpp[st]++;
+            mpp[(sum%k+k)%k]++;
         }
-        int ans=0;
         for(auto it:mpp){
-            ans+=(it.second)*(it.second-1)/2;
+            if(it.second>1) 
+                ans+=it.second*(it.second-1)/2;
         }
         return ans;
     }
