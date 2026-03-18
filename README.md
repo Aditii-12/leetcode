@@ -75,6 +75,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0523-continuous-subarray-sum](https://github.com/Aditii-12/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Aditii-12/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditii-12/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Aditii-12/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aditii-12/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditii-12/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aditii-12/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -160,6 +161,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0424-longest-repeating-character-replacement](https://github.com/Aditii-12/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Aditii-12/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Aditii-12/leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Aditii-12/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Aditii-12/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Aditii-12/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -179,6 +181,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Aditii-12/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Aditii-12/leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Aditii-12/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Aditii-12/leetcode/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditii-12/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
