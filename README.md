@@ -243,6 +243,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [0078-subsets](https://github.com/Aditii-12/leetcode/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/Aditii-12/leetcode/tree/main/0137-single-number-ii/) | Medium |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Aditii-12/leetcode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Aditii-12/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/Aditii-12/leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Aditii-12/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
