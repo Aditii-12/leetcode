@@ -66,6 +66,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditii-12/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Aditii-12/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Aditii-12/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Aditii-12/leetcode/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/Aditii-12/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aditii-12/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Aditii-12/leetcode/tree/main/0162-find-peak-element/) | Medium |
@@ -176,6 +177,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Aditii-12/leetcode/tree/main/0078-subsets/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -236,6 +238,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Aditii-12/leetcode/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/Aditii-12/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Aditii-12/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Aditii-12/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
