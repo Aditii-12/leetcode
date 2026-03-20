@@ -248,6 +248,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0318-maximum-product-of-word-lengths](https://github.com/Aditii-12/leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Aditii-12/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Aditii-12/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Aditii-12/leetcode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
