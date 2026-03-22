@@ -87,6 +87,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditii-12/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aditii-12/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Aditii-12/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aditii-12/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditii-12/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Aditii-12/leetcode/tree/main/1124-longest-well-performing-interval/) | Medium |
@@ -151,6 +152,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Aditii-12/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Aditii-12/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aditii-12/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aditii-12/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aditii-12/leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Aditii-12/leetcode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
@@ -271,6 +273,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Aditii-12/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditii-12/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aditii-12/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,6 +312,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aditii-12/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Aditii-12/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -317,6 +321,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aditii-12/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Aditii-12/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
