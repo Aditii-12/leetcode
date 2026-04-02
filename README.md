@@ -119,6 +119,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Aditii-12/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0402-remove-k-digits](https://github.com/Aditii-12/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditii-12/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Aditii-12/leetcode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Aditii-12/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -146,6 +147,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditii-12/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aditii-12/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0318-maximum-product-of-word-lengths](https://github.com/Aditii-12/leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
+| [0402-remove-k-digits](https://github.com/Aditii-12/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Aditii-12/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Aditii-12/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -361,6 +363,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Aditii-12/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0739-daily-temperatures](https://github.com/Aditii-12/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Aditii-12/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Aditii-12/leetcode/tree/main/1124-longest-well-performing-interval/) | Medium |
@@ -368,6 +371,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Aditii-12/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0739-daily-temperatures](https://github.com/Aditii-12/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Aditii-12/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Aditii-12/leetcode/tree/main/1124-longest-well-performing-interval/) | Medium |
