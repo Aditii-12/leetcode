@@ -183,6 +183,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Aditii-12/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Aditii-12/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0788-rotated-digits](https://github.com/Aditii-12/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditii-12/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Aditii-12/leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/Aditii-12/leetcode/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
@@ -330,6 +331,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [0477-total-hamming-distance](https://github.com/Aditii-12/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Aditii-12/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0788-rotated-digits](https://github.com/Aditii-12/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1622-fancy-sequence](https://github.com/Aditii-12/leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditii-12/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditii-12/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
