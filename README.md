@@ -100,6 +100,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditii-12/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Aditii-12/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditii-12/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/Aditii-12/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aditii-12/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/Aditii-12/leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aditii-12/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -276,6 +277,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0075-sort-colors](https://github.com/Aditii-12/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aditii-12/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/Aditii-12/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/Aditii-12/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aditii-12/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditii-12/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Aditii-12/leetcode/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -298,6 +300,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditii-12/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aditii-12/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditii-12/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/Aditii-12/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Aditii-12/leetcode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditii-12/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aditii-12/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
