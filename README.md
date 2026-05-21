@@ -95,6 +95,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditii-12/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditii-12/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Aditii-12/leetcode/tree/main/1124-longest-well-performing-interval/) | Medium |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Aditii-12/leetcode/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Aditii-12/leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/Aditii-12/leetcode/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Aditii-12/leetcode/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
@@ -165,6 +166,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0424-longest-repeating-character-replacement](https://github.com/Aditii-12/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Aditii-12/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/Aditii-12/leetcode/tree/main/0796-rotate-string/) | Easy |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Aditii-12/leetcode/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aditii-12/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/Aditii-12/leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
@@ -226,6 +228,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0904-fruit-into-baskets](https://github.com/Aditii-12/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Aditii-12/leetcode/tree/main/1124-longest-well-performing-interval/) | Medium |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Aditii-12/leetcode/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Aditii-12/leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aditii-12/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1915-number-of-wonderful-substrings](https://github.com/Aditii-12/leetcode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
@@ -282,6 +285,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0075-sort-colors](https://github.com/Aditii-12/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aditii-12/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/Aditii-12/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Aditii-12/leetcode/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Aditii-12/leetcode/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aditii-12/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aditii-12/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -306,6 +310,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditii-12/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aditii-12/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditii-12/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Aditii-12/leetcode/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Aditii-12/leetcode/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aditii-12/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Aditii-12/leetcode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
