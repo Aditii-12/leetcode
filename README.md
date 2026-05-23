@@ -80,6 +80,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0287-find-the-duplicate-number](https://github.com/Aditii-12/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/Aditii-12/leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aditii-12/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Aditii-12/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Aditii-12/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Aditii-12/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Aditii-12/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -365,6 +366,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditii-12/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aditii-12/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Aditii-12/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Aditii-12/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aditii-12/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0767-reorganize-string](https://github.com/Aditii-12/leetcode/tree/main/0767-reorganize-string/) | Medium |
