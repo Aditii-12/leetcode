@@ -418,6 +418,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Aditii-12/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0901-online-stock-span](https://github.com/Aditii-12/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1622-fancy-sequence](https://github.com/Aditii-12/leetcode/tree/main/1622-fancy-sequence/) | Hard |
 ## Segment Tree
@@ -441,6 +442,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Aditii-12/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0402-remove-k-digits](https://github.com/Aditii-12/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Aditii-12/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Aditii-12/leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -512,13 +514,20 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Aditii-12/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditii-12/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Aditii-12/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditii-12/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Aditii-12/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditii-12/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Aditii-12/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
