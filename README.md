@@ -478,6 +478,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Aditii-12/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditii-12/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Aditii-12/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditii-12/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
@@ -522,6 +523,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Aditii-12/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Aditii-12/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditii-12/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Aditii-12/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
@@ -539,6 +541,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Aditii-12/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Aditii-12/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditii-12/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Aditii-12/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
