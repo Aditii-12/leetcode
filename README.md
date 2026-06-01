@@ -481,6 +481,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditii-12/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditii-12/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Aditii-12/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aditii-12/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditii-12/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Aditii-12/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 ## Breadth-First Search
@@ -528,6 +529,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditii-12/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Aditii-12/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aditii-12/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditii-12/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -546,6 +548,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditii-12/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Aditii-12/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aditii-12/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditii-12/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
