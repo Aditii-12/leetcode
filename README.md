@@ -216,6 +216,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Aditii-12/leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/Aditii-12/leetcode/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aditii-12/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aditii-12/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aditii-12/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Aditii-12/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -491,6 +492,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0662-maximum-width-of-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aditii-12/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditii-12/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Aditii-12/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -545,6 +547,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aditii-12/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditii-12/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -568,6 +571,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aditii-12/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditii-12/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
