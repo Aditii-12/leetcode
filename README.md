@@ -497,6 +497,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aditii-12/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditii-12/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Aditii-12/leetcode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Aditii-12/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
@@ -558,6 +559,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aditii-12/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditii-12/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Aditii-12/leetcode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditii-12/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -586,6 +588,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aditii-12/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditii-12/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Aditii-12/leetcode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditii-12/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
