@@ -503,6 +503,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Aditii-12/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/Aditii-12/leetcode/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditii-12/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -565,6 +566,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1325-delete-leaves-with-a-given-value](https://github.com/Aditii-12/leetcode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/Aditii-12/leetcode/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 | [1609-even-odd-tree](https://github.com/Aditii-12/leetcode/tree/main/1609-even-odd-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aditii-12/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditii-12/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -596,6 +598,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1325-delete-leaves-with-a-given-value](https://github.com/Aditii-12/leetcode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/Aditii-12/leetcode/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 | [1609-even-odd-tree](https://github.com/Aditii-12/leetcode/tree/main/1609-even-odd-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aditii-12/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditii-12/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
