@@ -564,6 +564,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditii-12/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Aditii-12/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditii-12/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/Aditii-12/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Aditii-12/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Aditii-12/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Aditii-12/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
@@ -591,6 +592,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0098-validate-binary-search-tree](https://github.com/Aditii-12/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Aditii-12/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditii-12/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/Aditii-12/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Aditii-12/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditii-12/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
@@ -602,6 +604,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditii-12/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Aditii-12/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditii-12/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/Aditii-12/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Aditii-12/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Aditii-12/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Aditii-12/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
