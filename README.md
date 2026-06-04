@@ -506,6 +506,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0662-maximum-width-of-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/Aditii-12/leetcode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aditii-12/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditii-12/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
@@ -587,6 +588,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/Aditii-12/leetcode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aditii-12/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
@@ -633,6 +635,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/Aditii-12/leetcode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aditii-12/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
