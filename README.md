@@ -252,6 +252,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0652-find-duplicate-subtrees](https://github.com/Aditii-12/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aditii-12/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Aditii-12/leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Aditii-12/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aditii-12/leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
@@ -503,6 +504,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0623-add-one-row-to-tree](https://github.com/Aditii-12/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Aditii-12/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/Aditii-12/leetcode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aditii-12/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
@@ -524,6 +526,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0513-find-bottom-left-tree-value](https://github.com/Aditii-12/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Aditii-12/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Aditii-12/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
@@ -580,6 +583,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0652-find-duplicate-subtrees](https://github.com/Aditii-12/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/Aditii-12/leetcode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -624,6 +628,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0652-find-duplicate-subtrees](https://github.com/Aditii-12/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/Aditii-12/leetcode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
