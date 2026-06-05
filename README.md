@@ -418,11 +418,13 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Aditii-12/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Aditii-12/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aditii-12/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Aditii-12/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Aditii-12/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aditii-12/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Aditii-12/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
@@ -502,6 +504,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0437-path-sum-iii](https://github.com/Aditii-12/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Aditii-12/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Aditii-12/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0547-number-of-provinces](https://github.com/Aditii-12/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Aditii-12/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Aditii-12/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -527,6 +530,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Aditii-12/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Aditii-12/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0547-number-of-provinces](https://github.com/Aditii-12/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Aditii-12/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Aditii-12/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
