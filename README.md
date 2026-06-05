@@ -275,6 +275,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [0078-subsets](https://github.com/Aditii-12/leetcode/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/Aditii-12/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
@@ -425,6 +426,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Aditii-12/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/Aditii-12/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Aditii-12/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aditii-12/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Aditii-12/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
@@ -508,6 +510,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0623-add-one-row-to-tree](https://github.com/Aditii-12/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Aditii-12/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/Aditii-12/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Aditii-12/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/Aditii-12/leetcode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
@@ -533,6 +536,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0547-number-of-provinces](https://github.com/Aditii-12/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Aditii-12/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/Aditii-12/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Aditii-12/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
