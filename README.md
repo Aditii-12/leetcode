@@ -433,6 +433,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0695-max-area-of-island](https://github.com/Aditii-12/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Aditii-12/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1905-count-sub-islands](https://github.com/Aditii-12/leetcode/tree/main/1905-count-sub-islands/) | Medium |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Aditii-12/leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Aditii-12/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aditii-12/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
@@ -444,6 +445,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0841-keys-and-rooms](https://github.com/Aditii-12/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aditii-12/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Aditii-12/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Aditii-12/leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aditii-12/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -546,6 +548,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Aditii-12/leetcode/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 | [1905-count-sub-islands](https://github.com/Aditii-12/leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditii-12/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Aditii-12/leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditii-12/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -568,6 +571,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1462-course-schedule-iv](https://github.com/Aditii-12/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1609-even-odd-tree](https://github.com/Aditii-12/leetcode/tree/main/1609-even-odd-tree/) | Medium |
 | [1905-count-sub-islands](https://github.com/Aditii-12/leetcode/tree/main/1905-count-sub-islands/) | Medium |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Aditii-12/leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditii-12/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
