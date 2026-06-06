@@ -128,6 +128,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Aditii-12/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditii-12/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2101-detonate-the-maximum-bombs](https://github.com/Aditii-12/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/Aditii-12/leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aditii-12/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Aditii-12/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
@@ -429,6 +430,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0788-rotated-digits](https://github.com/Aditii-12/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1622-fancy-sequence](https://github.com/Aditii-12/leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditii-12/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2101-detonate-the-maximum-bombs](https://github.com/Aditii-12/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditii-12/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditii-12/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Union-Find
@@ -452,6 +454,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0841-keys-and-rooms](https://github.com/Aditii-12/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aditii-12/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Aditii-12/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
+| [2101-detonate-the-maximum-bombs](https://github.com/Aditii-12/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Aditii-12/leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aditii-12/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
@@ -555,6 +558,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1462-course-schedule-iv](https://github.com/Aditii-12/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Aditii-12/leetcode/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 | [1905-count-sub-islands](https://github.com/Aditii-12/leetcode/tree/main/1905-count-sub-islands/) | Medium |
+| [2101-detonate-the-maximum-bombs](https://github.com/Aditii-12/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditii-12/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Aditii-12/leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditii-12/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -582,6 +586,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1765-map-of-highest-peak](https://github.com/Aditii-12/leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1905-count-sub-islands](https://github.com/Aditii-12/leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Aditii-12/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [2101-detonate-the-maximum-bombs](https://github.com/Aditii-12/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Aditii-12/leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditii-12/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Topological Sort
@@ -705,4 +710,8 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Aditii-12/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/Aditii-12/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 <!---LeetCode Topics End-->
