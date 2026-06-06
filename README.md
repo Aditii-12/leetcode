@@ -83,6 +83,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0318-maximum-product-of-word-lengths](https://github.com/Aditii-12/leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aditii-12/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aditii-12/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0399-evaluate-division](https://github.com/Aditii-12/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Aditii-12/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Aditii-12/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Aditii-12/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -193,6 +194,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditii-12/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aditii-12/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0318-maximum-product-of-word-lengths](https://github.com/Aditii-12/leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
+| [0399-evaluate-division](https://github.com/Aditii-12/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0402-remove-k-digits](https://github.com/Aditii-12/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Aditii-12/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Aditii-12/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -440,6 +442,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Aditii-12/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Aditii-12/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0399-evaluate-division](https://github.com/Aditii-12/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aditii-12/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Aditii-12/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Aditii-12/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -451,6 +454,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/Aditii-12/leetcode/tree/main/0133-clone-graph/) | Medium |
+| [0399-evaluate-division](https://github.com/Aditii-12/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aditii-12/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Aditii-12/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Aditii-12/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -523,6 +527,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/Aditii-12/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aditii-12/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -536,6 +541,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0200-number-of-islands](https://github.com/Aditii-12/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditii-12/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0399-evaluate-division](https://github.com/Aditii-12/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0437-path-sum-iii](https://github.com/Aditii-12/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Aditii-12/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Aditii-12/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
@@ -575,6 +581,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0133-clone-graph](https://github.com/Aditii-12/leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Aditii-12/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Aditii-12/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0399-evaluate-division](https://github.com/Aditii-12/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Aditii-12/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aditii-12/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Aditii-12/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
