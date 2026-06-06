@@ -274,6 +274,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1110-delete-nodes-and-return-forest](https://github.com/Aditii-12/leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Aditii-12/leetcode/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Aditii-12/leetcode/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Aditii-12/leetcode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Aditii-12/leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aditii-12/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1915-number-of-wonderful-substrings](https://github.com/Aditii-12/leetcode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
@@ -394,6 +395,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0451-sort-characters-by-frequency](https://github.com/Aditii-12/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aditii-12/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Aditii-12/leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Aditii-12/leetcode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Aditii-12/leetcode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -556,6 +558,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Aditii-12/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Aditii-12/leetcode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Aditii-12/leetcode/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 | [1905-count-sub-islands](https://github.com/Aditii-12/leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aditii-12/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
@@ -582,6 +585,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Aditii-12/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Aditii-12/leetcode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1609-even-odd-tree](https://github.com/Aditii-12/leetcode/tree/main/1609-even-odd-tree/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/Aditii-12/leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1905-count-sub-islands](https://github.com/Aditii-12/leetcode/tree/main/1905-count-sub-islands/) | Medium |
@@ -654,6 +658,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Aditii-12/leetcode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Aditii-12/leetcode/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 | [1609-even-odd-tree](https://github.com/Aditii-12/leetcode/tree/main/1609-even-odd-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aditii-12/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
