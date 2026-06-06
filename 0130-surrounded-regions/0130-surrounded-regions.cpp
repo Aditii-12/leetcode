@@ -1,49 +1,32 @@
 class Solution {
 public:
-int n,m;
-int dr[4]={0,0,1,-1};
-int dc[4]={1,-1,0,0};
-    void dfs(int i,int j,vector<vector<char>>& board,vector<vector<int>>&vis){
-        vis[i][j]=1;
-        for(int k=0;k<4;k++){
-            int nr=i+dr[k];
-            int nc=j+dc[k];
-            if(nc>=0 && nr>=0 && nr<n && nc<m && vis[nr][nc]==0 && board[nr][nc]=='O'){
-                //ab ye visited mark krdiya which is
-                //we cant change this to x 
-                //jb hm end me sare 0(andr wale jo boundary se connected ni h) unko x krenge
-                //tb inko ni krenge
-                dfs(nr,nc,board,vis);
-            }
+    int dr[4]={0,0,1,-1};
+    int dc[4]={1,-1,0,0};
+    void dfs(int r,int c,vector<vector<char>>& grid){
+        int m=grid.size();
+        int n=grid[0].size();
+        if(r<0||c<0||r>=m||c>=n) return;
+        if(grid[r][c]!='O') return;
+        grid[r][c]='a';
+        for(int i=0;i<4;i++){
+            dfs(r+dr[i],c+dc[i],grid);
         }
     }
     void solve(vector<vector<char>>& board) {
-         n=board.size();
-        m=board[0].size();
-        vector<vector<int>>vis(n,vector<int>(m,0));
-        // traversing for first and last row
-        //upr ki last ki line
-        //m is no of columns 
+        int m=board.size();
+        int n=board[0].size();
         for(int i=0;i<m;i++){
-            if(vis[0][i]!=1 && board[0][i]=='O') 
-                dfs(0,i,board,vis);
-            if(vis[n-1][i]==0 && board[n-1][i]=='O')
-                dfs(n-1,i,board,vis);
-        }
-        //for side ki 2 line. extremee columns
-        for(int i=0;i<n;i++){
-            if(vis[i][0]==0 && board[i][0]=='O'){
-                dfs(i,0,board,vis);
-            }
-            if(vis[i][m-1]==0 && board[i][m-1]=='O'){
-                dfs(i,m-1,board,vis);
-            }
+            if(board[i][0]=='O') dfs(i,0,board);
+            if(board[i][n-1]=='O') dfs(i,n-1,board);
         }
         for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(vis[i][j]==0 && board[i][j]=='O'){
-                    board[i][j]='X';
-                }
+            if(board[0][i]=='O') dfs(0,i,board);
+            if(board[m-1][i]=='O') dfs(m-1,i,board);
+        }
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(board[i][j]=='O') board[i][j]='X';
+                if(board[i][j]=='a') board[i][j]='O';
             }
         }
     }
