@@ -96,6 +96,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0695-max-area-of-island](https://github.com/Aditii-12/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0739-daily-temperatures](https://github.com/Aditii-12/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/Aditii-12/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
+| [0851-loud-and-rich](https://github.com/Aditii-12/leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditii-12/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aditii-12/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Aditii-12/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -462,6 +463,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0797-all-paths-from-source-to-target](https://github.com/Aditii-12/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Aditii-12/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Aditii-12/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0851-loud-and-rich](https://github.com/Aditii-12/leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aditii-12/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Aditii-12/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Aditii-12/leetcode/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
@@ -560,6 +562,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0797-all-paths-from-source-to-target](https://github.com/Aditii-12/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Aditii-12/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Aditii-12/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0851-loud-and-rich](https://github.com/Aditii-12/leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/Aditii-12/leetcode/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
@@ -623,6 +626,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0210-course-schedule-ii](https://github.com/Aditii-12/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0310-minimum-height-trees](https://github.com/Aditii-12/leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Aditii-12/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0851-loud-and-rich](https://github.com/Aditii-12/leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Aditii-12/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Aditii-12/leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## String Matching
