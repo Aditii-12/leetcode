@@ -507,6 +507,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditii-12/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Aditii-12/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0402-remove-k-digits](https://github.com/Aditii-12/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Aditii-12/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -546,6 +547,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0079-word-search](https://github.com/Aditii-12/leetcode/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Aditii-12/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditii-12/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditii-12/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aditii-12/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/Aditii-12/leetcode/tree/main/0133-clone-graph/) | Medium |
@@ -648,6 +650,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditii-12/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditii-12/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 ## Bucket Sort
@@ -671,6 +674,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0098-validate-binary-search-tree](https://github.com/Aditii-12/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aditii-12/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditii-12/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditii-12/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Aditii-12/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Aditii-12/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -720,6 +724,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0098-validate-binary-search-tree](https://github.com/Aditii-12/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aditii-12/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditii-12/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditii-12/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Aditii-12/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Aditii-12/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
