@@ -98,6 +98,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0739-daily-temperatures](https://github.com/Aditii-12/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0752-open-the-lock](https://github.com/Aditii-12/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/Aditii-12/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
+| [0809-expressive-words](https://github.com/Aditii-12/leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0851-loud-and-rich](https://github.com/Aditii-12/leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditii-12/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aditii-12/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -211,6 +212,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0752-open-the-lock](https://github.com/Aditii-12/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/Aditii-12/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0796-rotate-string](https://github.com/Aditii-12/leetcode/tree/main/0796-rotate-string/) | Easy |
+| [0809-expressive-words](https://github.com/Aditii-12/leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Aditii-12/leetcode/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1405-longest-happy-string](https://github.com/Aditii-12/leetcode/tree/main/1405-longest-happy-string/) | Medium |
@@ -338,6 +340,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0287-find-the-duplicate-number](https://github.com/Aditii-12/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0567-permutation-in-string](https://github.com/Aditii-12/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aditii-12/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0809-expressive-words](https://github.com/Aditii-12/leetcode/tree/main/0809-expressive-words/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aditii-12/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/Aditii-12/leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Aditii-12/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
