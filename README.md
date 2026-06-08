@@ -68,6 +68,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0074-search-a-2d-matrix](https://github.com/Aditii-12/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Aditii-12/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Aditii-12/leetcode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Aditii-12/leetcode/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aditii-12/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0137-single-number-ii](https://github.com/Aditii-12/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Aditii-12/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -170,6 +171,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aditii-12/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/Aditii-12/leetcode/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aditii-12/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Aditii-12/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditii-12/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -194,6 +196,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditii-12/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aditii-12/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/Aditii-12/leetcode/tree/main/0079-word-search/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/Aditii-12/leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0399-evaluate-division](https://github.com/Aditii-12/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0402-remove-k-digits](https://github.com/Aditii-12/leetcode/tree/main/0402-remove-k-digits/) | Medium |
@@ -294,6 +297,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Aditii-12/leetcode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Aditii-12/leetcode/tree/main/0079-word-search/) | Medium |
 | [0113-path-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Aditii-12/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
@@ -539,6 +543,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Aditii-12/leetcode/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Aditii-12/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0113-path-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Aditii-12/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
