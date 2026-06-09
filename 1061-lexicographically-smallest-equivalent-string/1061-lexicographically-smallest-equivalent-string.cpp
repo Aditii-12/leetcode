@@ -1,32 +1,30 @@
 class Solution {
 public:
-    map<char, char> mpp;
-
-    // Find function to get the smallest equivalent character
-    char find(char x) {
-        if (mpp[x] != x)
-            mpp[x] = find(mpp[x]);  
-        return mpp[x];
+vector<int>par;
+    int find(int x){
+        if(par[x]==x) return x;
+        else return par[x]=find(par[x]);
     }
-
-    string smallestEquivalentString(string s1, string s2, string baseStr) {
-        // Initialize each character to itself
-        for (char c = 'a'; c <= 'z'; c++) {
-            mpp[c] = c;
+    void unionn(int x,int y){
+        int parx=find(x);
+        int pary=find(y);
+        if(parx==pary) return;
+        else if(parx<pary) par[pary]=parx;
+        else par[parx]=pary;
+    }
+    string smallestEquivalentString(string s1, string s2, string basestr) {
+        int n=s1.length();
+        par.resize(26);
+        for(char i=0;i<26;i++){
+            par[i]=i;
         }
-
-        // Union step: merge the equivalence classes
-        for (int i = 0; i < s1.length(); i++) {
-            char a = find(s1[i]);
-            char b = find(s2[i]);
-            if (a == b) continue;
-            if (a < b) mpp[b] = a;
-            else mpp[a] = b;
+        for(int i=0;i<n;i++){
+            unionn(s1[i]-'a',s2[i]-'a');
         }
-        for (int i = 0; i < baseStr.length(); i++) {
-            baseStr[i] = find(baseStr[i]);
+        string ans="";
+        for(int i=0;i<basestr.size();i++){
+            ans+=(find(basestr[i]-'a')+'a');
         }
-
-        return baseStr;
+        return ans;
     }
 };
