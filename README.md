@@ -107,6 +107,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditii-12/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0969-pancake-sorting](https://github.com/Aditii-12/leetcode/tree/main/0969-pancake-sorting/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/Aditii-12/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditii-12/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditii-12/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -223,6 +224,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0796-rotate-string](https://github.com/Aditii-12/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0809-expressive-words](https://github.com/Aditii-12/leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/Aditii-12/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Aditii-12/leetcode/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Aditii-12/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1405-longest-happy-string](https://github.com/Aditii-12/leetcode/tree/main/1405-longest-happy-string/) | Medium |
@@ -479,6 +481,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0684-redundant-connection](https://github.com/Aditii-12/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Aditii-12/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/Aditii-12/leetcode/tree/main/0721-accounts-merge/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/Aditii-12/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Aditii-12/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Aditii-12/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Aditii-12/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
@@ -502,6 +505,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0802-find-eventual-safe-states](https://github.com/Aditii-12/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Aditii-12/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0851-loud-and-rich](https://github.com/Aditii-12/leetcode/tree/main/0851-loud-and-rich/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/Aditii-12/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Aditii-12/leetcode/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aditii-12/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aditii-12/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
