@@ -1,50 +1,45 @@
 class Solution {
 public:
-vector<int>parent;
-    vector<int> rank;
-    int find(int x){
-        if(parent[x]==x) return x;
-        else
-            return parent[x]=find(parent[x]);
+vector<int>par;
+vector<int>rank;
+int find(int x){
+    if(par[x]==x) return x;
+    return par[x]=find(par[x]);
+}
+void unionn(int x,int y){
+    int x_par=find(x);
+    int y_par=find(y);
+    if(rank[x_par]>rank[y_par]) par[y_par]=x_par;
+    else if(rank[x_par]<rank[y_par]) par[x_par]=y_par;
+    else{
+        rank[x_par]++;
+        par[y_par]=x_par;
     }
-    void unionn(int x,int y){
-        int x_p=find(x);
-        int y_p=find(y);
-        if(x_p == y_p) return;
-        if(rank[x_p]>rank[y_p]){
-            parent[y_p]=x_p;
-        }
-        else if(rank[x_p]<rank[y_p]){
-            parent[x_p]=y_p;
-        }
-        else {
-            parent[x_p]=y_p;
-            rank[y_p]++;
-        }
-    }
+}
     int makeConnected(int n, vector<vector<int>>& connections) {
-        if(connections.size()<n-1) return -1;
-        //we need atleast n-1 edges to connect all
-        //connections me edges hi h or
-        parent.resize(n);
-        for(int i=0;i<n;i++){
-            parent[i]=i;
-        }
+        int m=connections.size();
+        if(m<n-1) return -1;
+        par.resize(n);
         rank.resize(n,0);
-        int component=n; //no of component
-        //hm union lete jayenge and componenet kam krte jayenge
-        //end me no of edges required=component-1
-        //components ko decrease krte jayenge end me we need 1;
+        for(int i=0;i<n;i++){
+            par[i]=i;
+        }
+        int ex=0;
         for(auto it:connections){
-            int p_x=find(it[0]);
-            int p_y=find(it[1]);
-            if(p_x!=p_y) {
+            int par1=find(it[0]);
+            int par2=find(it[1]);
+            if(par1!=par2){
                 unionn(it[0],it[1]);
-                component--;
+            }
+            else{
+                ex++;
             }
         }
-        return component-1;
-        //no of edges required to join all component;
-        
+        int compo=0;
+        for(int i=0;i<n;i++){
+            if(find(i)==i) compo++;
+        }
+        if(ex>=compo-1) return compo-1;
+        return -1;
     }
 };
