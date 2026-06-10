@@ -100,6 +100,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0752-open-the-lock](https://github.com/Aditii-12/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/Aditii-12/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0809-expressive-words](https://github.com/Aditii-12/leetcode/tree/main/0809-expressive-words/) | Medium |
+| [0839-similar-string-groups](https://github.com/Aditii-12/leetcode/tree/main/0839-similar-string-groups/) | Hard |
 | [0851-loud-and-rich](https://github.com/Aditii-12/leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditii-12/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aditii-12/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -227,6 +228,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0767-reorganize-string](https://github.com/Aditii-12/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0796-rotate-string](https://github.com/Aditii-12/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0809-expressive-words](https://github.com/Aditii-12/leetcode/tree/main/0809-expressive-words/) | Medium |
+| [0839-similar-string-groups](https://github.com/Aditii-12/leetcode/tree/main/0839-similar-string-groups/) | Hard |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Aditii-12/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Aditii-12/leetcode/tree/main/1061-lexicographically-smallest-equivalent-string/) | Medium |
@@ -303,6 +305,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0721-accounts-merge](https://github.com/Aditii-12/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Aditii-12/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/Aditii-12/leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0839-similar-string-groups](https://github.com/Aditii-12/leetcode/tree/main/0839-similar-string-groups/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Aditii-12/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -494,6 +497,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0684-redundant-connection](https://github.com/Aditii-12/leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Aditii-12/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/Aditii-12/leetcode/tree/main/0721-accounts-merge/) | Medium |
+| [0839-similar-string-groups](https://github.com/Aditii-12/leetcode/tree/main/0839-similar-string-groups/) | Hard |
 | [0990-satisfiability-of-equality-equations](https://github.com/Aditii-12/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Aditii-12/leetcode/tree/main/1061-lexicographically-smallest-equivalent-string/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Aditii-12/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -633,6 +637,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0721-accounts-merge](https://github.com/Aditii-12/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Aditii-12/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Aditii-12/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0839-similar-string-groups](https://github.com/Aditii-12/leetcode/tree/main/0839-similar-string-groups/) | Hard |
 | [0841-keys-and-rooms](https://github.com/Aditii-12/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0851-loud-and-rich](https://github.com/Aditii-12/leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -688,6 +693,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0752-open-the-lock](https://github.com/Aditii-12/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Aditii-12/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Aditii-12/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0839-similar-string-groups](https://github.com/Aditii-12/leetcode/tree/main/0839-similar-string-groups/) | Hard |
 | [0841-keys-and-rooms](https://github.com/Aditii-12/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
