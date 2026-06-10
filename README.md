@@ -504,6 +504,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1254-number-of-closed-islands](https://github.com/Aditii-12/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Aditii-12/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aditii-12/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Aditii-12/leetcode/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Aditii-12/leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1905-count-sub-islands](https://github.com/Aditii-12/leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Aditii-12/leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
@@ -533,6 +534,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aditii-12/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Aditii-12/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Aditii-12/leetcode/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Aditii-12/leetcode/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
 | [1615-maximal-network-rank](https://github.com/Aditii-12/leetcode/tree/main/1615-maximal-network-rank/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aditii-12/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Aditii-12/leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
