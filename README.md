@@ -161,6 +161,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditii-12/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/Aditii-12/leetcode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Aditii-12/leetcode/tree/main/3909-compare-sums-of-bitonic-parts/) | Medium |
+| [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Aditii-12/leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 | [3926-count-valid-word-occurrences](https://github.com/Aditii-12/leetcode/tree/main/3926-count-valid-word-occurrences/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -433,6 +434,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Aditii-12/leetcode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1915-number-of-wonderful-substrings](https://github.com/Aditii-12/leetcode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
+| [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Aditii-12/leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -506,6 +508,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aditii-12/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3608-minimum-time-for-k-connected-components](https://github.com/Aditii-12/leetcode/tree/main/3608-minimum-time-for-k-connected-components/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Aditii-12/leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -533,6 +536,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aditii-12/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aditii-12/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3608-minimum-time-for-k-connected-components](https://github.com/Aditii-12/leetcode/tree/main/3608-minimum-time-for-k-connected-components/) | Medium |
+| [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Aditii-12/leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -593,6 +597,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Aditii-12/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aditii-12/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Aditii-12/leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -659,6 +664,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditii-12/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aditii-12/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Aditii-12/leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -705,6 +711,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditii-12/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aditii-12/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Aditii-12/leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
