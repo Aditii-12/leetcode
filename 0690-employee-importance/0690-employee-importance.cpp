@@ -10,21 +10,19 @@ public:
 
 class Solution {
 public:
+    int dfs(int id,unordered_map<int,Employee*> &mp){
+        Employee* emp=mp[id];
+        int ans=emp->importance;
+        for(auto it:emp->subordinates){
+            ans+=dfs(it,mp);
+        }
+        return ans;
+    }
     int getImportance(vector<Employee*> employees, int id) {
         unordered_map<int,Employee*>mp;
         for(auto it:employees){
             mp[it->id]=it;
         }
-        queue<int>q;
-        q.push(id);
-        int ans=0;
-        while(!q.empty()){
-            int curr=q.front();
-            q.pop();
-            Employee* emp=mp[curr];
-            ans+=emp->importance;
-            for(auto it:emp->subordinates) q.push(it);
-        }
-        return ans;
+        return dfs(id,mp);
     }
 };
