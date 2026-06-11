@@ -164,6 +164,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3689-maximum-total-subarray-value-i](https://github.com/Aditii-12/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditii-12/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/Aditii-12/leetcode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Aditii-12/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Aditii-12/leetcode/tree/main/3909-compare-sums-of-bitonic-parts/) | Medium |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Aditii-12/leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Aditii-12/leetcode/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
@@ -499,6 +500,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2101-detonate-the-maximum-bombs](https://github.com/Aditii-12/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditii-12/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditii-12/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Aditii-12/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
