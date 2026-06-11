@@ -248,6 +248,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3474-lexicographically-smallest-generated-string](https://github.com/Aditii-12/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Aditii-12/leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3913-sort-vowels-by-frequency](https://github.com/Aditii-12/leetcode/tree/main/3913-sort-vowels-by-frequency/) | Medium |
+| [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/Aditii-12/leetcode/tree/main/3922-minimum-flips-to-make-binary-string-coherent/) | Medium |
 | [3926-count-valid-word-occurrences](https://github.com/Aditii-12/leetcode/tree/main/3926-count-valid-word-occurrences/) | Medium |
 | [3941-password-strength](https://github.com/Aditii-12/leetcode/tree/main/3941-password-strength/) | Medium |
 ## Recursion
