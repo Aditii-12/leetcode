@@ -165,6 +165,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditii-12/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/Aditii-12/leetcode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aditii-12/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3905-multi-source-flood-fill](https://github.com/Aditii-12/leetcode/tree/main/3905-multi-source-flood-fill/) | Medium |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Aditii-12/leetcode/tree/main/3909-compare-sums-of-bitonic-parts/) | Medium |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Aditii-12/leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Aditii-12/leetcode/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
@@ -217,6 +218,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Aditii-12/leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Aditii-12/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3905-multi-source-flood-fill](https://github.com/Aditii-12/leetcode/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -740,6 +742,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditii-12/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aditii-12/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3905-multi-source-flood-fill](https://github.com/Aditii-12/leetcode/tree/main/3905-multi-source-flood-fill/) | Medium |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Aditii-12/leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
