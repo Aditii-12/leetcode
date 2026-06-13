@@ -169,6 +169,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditii-12/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/Aditii-12/leetcode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aditii-12/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3895-count-digit-appearances](https://github.com/Aditii-12/leetcode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/Aditii-12/leetcode/tree/main/3905-multi-source-flood-fill/) | Medium |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Aditii-12/leetcode/tree/main/3909-compare-sums-of-bitonic-parts/) | Medium |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Aditii-12/leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
@@ -517,6 +518,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Aditii-12/leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 | [3871-count-commas-in-range-ii](https://github.com/Aditii-12/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aditii-12/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3895-count-digit-appearances](https://github.com/Aditii-12/leetcode/tree/main/3895-count-digit-appearances/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
