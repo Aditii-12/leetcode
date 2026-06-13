@@ -129,6 +129,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1552-magnetic-force-between-two-balls](https://github.com/Aditii-12/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aditii-12/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aditii-12/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aditii-12/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Aditii-12/leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aditii-12/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/Aditii-12/leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
@@ -533,6 +534,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aditii-12/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aditii-12/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Aditii-12/leetcode/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aditii-12/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/Aditii-12/leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Aditii-12/leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1905-count-sub-islands](https://github.com/Aditii-12/leetcode/tree/main/1905-count-sub-islands/) | Medium |
@@ -564,6 +566,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1462-course-schedule-iv](https://github.com/Aditii-12/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Aditii-12/leetcode/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Aditii-12/leetcode/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aditii-12/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1615-maximal-network-rank](https://github.com/Aditii-12/leetcode/tree/main/1615-maximal-network-rank/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aditii-12/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Aditii-12/leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
@@ -575,6 +578,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aditii-12/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aditii-12/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Design
 | Problem Name | Difficulty |
