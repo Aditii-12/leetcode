@@ -4,8 +4,8 @@ public:
         if(x==0) return 1;
         string s;
         while(x){
-            if(x&1) s+=(1+'0');
-            else s+=(0+'0');
+            if(x&1) s+=('1');
+            else s+=('0');
             x>>=1;
         }
         int i=0;
