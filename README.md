@@ -86,6 +86,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0347-top-k-frequent-elements](https://github.com/Aditii-12/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aditii-12/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0399-evaluate-division](https://github.com/Aditii-12/leetcode/tree/main/0399-evaluate-division/) | Medium |
+| [0475-heaters](https://github.com/Aditii-12/leetcode/tree/main/0475-heaters/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Aditii-12/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Aditii-12/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Aditii-12/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -402,6 +403,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0075-sort-colors](https://github.com/Aditii-12/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditii-12/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Aditii-12/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0475-heaters](https://github.com/Aditii-12/leetcode/tree/main/0475-heaters/) | Medium |
 | [0567-permutation-in-string](https://github.com/Aditii-12/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aditii-12/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0809-expressive-words](https://github.com/Aditii-12/leetcode/tree/main/0809-expressive-words/) | Medium |
@@ -424,6 +426,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditii-12/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aditii-12/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Aditii-12/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0475-heaters](https://github.com/Aditii-12/leetcode/tree/main/0475-heaters/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aditii-12/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aditii-12/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/Aditii-12/leetcode/tree/main/0721-accounts-merge/) | Medium |
@@ -456,6 +459,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditii-12/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0275-h-index-ii](https://github.com/Aditii-12/leetcode/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Aditii-12/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0475-heaters](https://github.com/Aditii-12/leetcode/tree/main/0475-heaters/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditii-12/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aditii-12/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/Aditii-12/leetcode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
