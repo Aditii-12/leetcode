@@ -109,6 +109,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0839-similar-string-groups](https://github.com/Aditii-12/leetcode/tree/main/0839-similar-string-groups/) | Hard |
 | [0851-loud-and-rich](https://github.com/Aditii-12/leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditii-12/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0861-score-after-flipping-matrix](https://github.com/Aditii-12/leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aditii-12/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Aditii-12/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditii-12/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -195,6 +196,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0769-max-chunks-to-make-sorted](https://github.com/Aditii-12/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Aditii-12/leetcode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Aditii-12/leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0861-score-after-flipping-matrix](https://github.com/Aditii-12/leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0969-pancake-sorting](https://github.com/Aditii-12/leetcode/tree/main/0969-pancake-sorting/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aditii-12/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1405-longest-happy-string](https://github.com/Aditii-12/leetcode/tree/main/1405-longest-happy-string/) | Medium |
@@ -220,6 +222,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditii-12/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0695-max-area-of-island](https://github.com/Aditii-12/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Aditii-12/leetcode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
+| [0861-score-after-flipping-matrix](https://github.com/Aditii-12/leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0934-shortest-bridge](https://github.com/Aditii-12/leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Aditii-12/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Aditii-12/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
@@ -493,6 +496,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0287-find-the-duplicate-number](https://github.com/Aditii-12/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/Aditii-12/leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Aditii-12/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
+| [0861-score-after-flipping-matrix](https://github.com/Aditii-12/leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Aditii-12/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Aditii-12/leetcode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
