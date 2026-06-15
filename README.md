@@ -120,6 +120,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditii-12/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditii-12/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1029-two-city-scheduling](https://github.com/Aditii-12/leetcode/tree/main/1029-two-city-scheduling/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aditii-12/leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Aditii-12/leetcode/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Aditii-12/leetcode/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
@@ -198,6 +199,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0826-most-profit-assigning-work](https://github.com/Aditii-12/leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Aditii-12/leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0969-pancake-sorting](https://github.com/Aditii-12/leetcode/tree/main/0969-pancake-sorting/) | Medium |
+| [1029-two-city-scheduling](https://github.com/Aditii-12/leetcode/tree/main/1029-two-city-scheduling/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aditii-12/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1405-longest-happy-string](https://github.com/Aditii-12/leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditii-12/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -440,6 +442,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0825-friends-of-appropriate-ages](https://github.com/Aditii-12/leetcode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Aditii-12/leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0969-pancake-sorting](https://github.com/Aditii-12/leetcode/tree/main/0969-pancake-sorting/) | Medium |
+| [1029-two-city-scheduling](https://github.com/Aditii-12/leetcode/tree/main/1029-two-city-scheduling/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Aditii-12/leetcode/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Aditii-12/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Aditii-12/leetcode/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
