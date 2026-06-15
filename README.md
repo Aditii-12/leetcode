@@ -132,6 +132,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aditii-12/leetcode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Aditii-12/leetcode/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Aditii-12/leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1383-maximum-performance-of-a-team](https://github.com/Aditii-12/leetcode/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditii-12/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Aditii-12/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/Aditii-12/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
@@ -205,6 +206,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aditii-12/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aditii-12/leetcode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Aditii-12/leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1383-maximum-performance-of-a-team](https://github.com/Aditii-12/leetcode/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [1405-longest-happy-string](https://github.com/Aditii-12/leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditii-12/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/Aditii-12/leetcode/tree/main/1642-furthest-building-you-can-reach/) | Medium |
@@ -456,6 +458,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1202-smallest-string-with-swaps](https://github.com/Aditii-12/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Aditii-12/leetcode/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Aditii-12/leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1383-maximum-performance-of-a-team](https://github.com/Aditii-12/leetcode/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aditii-12/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aditii-12/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditii-12/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -549,6 +552,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0692-top-k-frequent-words](https://github.com/Aditii-12/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Aditii-12/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Aditii-12/leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1383-maximum-performance-of-a-team](https://github.com/Aditii-12/leetcode/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [1405-longest-happy-string](https://github.com/Aditii-12/leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Aditii-12/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/Aditii-12/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
