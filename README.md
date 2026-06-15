@@ -153,6 +153,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditii-12/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/Aditii-12/leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [1905-count-sub-islands](https://github.com/Aditii-12/leetcode/tree/main/1905-count-sub-islands/) | Medium |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Aditii-12/leetcode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Aditii-12/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Aditii-12/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -210,6 +211,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1405-longest-happy-string](https://github.com/Aditii-12/leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditii-12/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/Aditii-12/leetcode/tree/main/1642-furthest-building-you-can-reach/) | Medium |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Aditii-12/leetcode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Aditii-12/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aditii-12/leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Aditii-12/leetcode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
@@ -461,6 +463,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1383-maximum-performance-of-a-team](https://github.com/Aditii-12/leetcode/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aditii-12/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aditii-12/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/Aditii-12/leetcode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditii-12/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Aditii-12/leetcode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Aditii-12/leetcode/tree/main/2542-maximum-subsequence-score/) | Medium |
