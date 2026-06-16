@@ -149,6 +149,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Aditii-12/leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Aditii-12/leetcode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/Aditii-12/leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Aditii-12/leetcode/tree/main/1775-equal-sum-arrays-with-minimum-number-of-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aditii-12/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditii-12/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/Aditii-12/leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
@@ -214,6 +215,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1405-longest-happy-string](https://github.com/Aditii-12/leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditii-12/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/Aditii-12/leetcode/tree/main/1642-furthest-building-you-can-reach/) | Medium |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Aditii-12/leetcode/tree/main/1775-equal-sum-arrays-with-minimum-number-of-operations/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Aditii-12/leetcode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Aditii-12/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aditii-12/leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
@@ -383,6 +385,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Aditii-12/leetcode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Aditii-12/leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aditii-12/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Aditii-12/leetcode/tree/main/1775-equal-sum-arrays-with-minimum-number-of-operations/) | Medium |
 | [1915-number-of-wonderful-substrings](https://github.com/Aditii-12/leetcode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/Aditii-12/leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
@@ -545,6 +548,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1267-count-servers-that-communicate](https://github.com/Aditii-12/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1400-construct-k-palindrome-strings](https://github.com/Aditii-12/leetcode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Aditii-12/leetcode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
+| [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Aditii-12/leetcode/tree/main/1775-equal-sum-arrays-with-minimum-number-of-operations/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/Aditii-12/leetcode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Aditii-12/leetcode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3913-sort-vowels-by-frequency](https://github.com/Aditii-12/leetcode/tree/main/3913-sort-vowels-by-frequency/) | Medium |
