@@ -131,6 +131,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1254-number-of-closed-islands](https://github.com/Aditii-12/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Aditii-12/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aditii-12/leetcode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aditii-12/leetcode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Aditii-12/leetcode/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Aditii-12/leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1383-maximum-performance-of-a-team](https://github.com/Aditii-12/leetcode/tree/main/1383-maximum-performance-of-a-team/) | Hard |
@@ -212,6 +213,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aditii-12/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Aditii-12/leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aditii-12/leetcode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aditii-12/leetcode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Aditii-12/leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1383-maximum-performance-of-a-team](https://github.com/Aditii-12/leetcode/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [1400-construct-k-palindrome-strings](https://github.com/Aditii-12/leetcode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
@@ -390,6 +392,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Aditii-12/leetcode/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Aditii-12/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aditii-12/leetcode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aditii-12/leetcode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Aditii-12/leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1400-construct-k-palindrome-strings](https://github.com/Aditii-12/leetcode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Aditii-12/leetcode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
@@ -483,6 +486,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1029-two-city-scheduling](https://github.com/Aditii-12/leetcode/tree/main/1029-two-city-scheduling/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Aditii-12/leetcode/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Aditii-12/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aditii-12/leetcode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Aditii-12/leetcode/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Aditii-12/leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1383-maximum-performance-of-a-team](https://github.com/Aditii-12/leetcode/tree/main/1383-maximum-performance-of-a-team/) | Hard |
