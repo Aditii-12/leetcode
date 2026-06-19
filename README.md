@@ -179,6 +179,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Aditii-12/leetcode/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Aditii-12/leetcode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Aditii-12/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2592-maximize-greatness-of-an-array](https://github.com/Aditii-12/leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2615-sum-of-distances](https://github.com/Aditii-12/leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Aditii-12/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2861-maximum-number-of-alloys](https://github.com/Aditii-12/leetcode/tree/main/2861-maximum-number-of-alloys/) | Medium |
@@ -251,6 +252,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Aditii-12/leetcode/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Aditii-12/leetcode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Aditii-12/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2592-maximize-greatness-of-an-array](https://github.com/Aditii-12/leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2895-minimum-processing-time](https://github.com/Aditii-12/leetcode/tree/main/2895-minimum-processing-time/) | Medium |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Aditii-12/leetcode/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditii-12/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -498,6 +500,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aditii-12/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Aditii-12/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Aditii-12/leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
+| [2592-maximize-greatness-of-an-array](https://github.com/Aditii-12/leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Aditii-12/leetcode/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Aditii-12/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aditii-12/leetcode/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
@@ -539,6 +542,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Aditii-12/leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Aditii-12/leetcode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Aditii-12/leetcode/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2592-maximize-greatness-of-an-array](https://github.com/Aditii-12/leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Aditii-12/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2895-minimum-processing-time](https://github.com/Aditii-12/leetcode/tree/main/2895-minimum-processing-time/) | Medium |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Aditii-12/leetcode/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
