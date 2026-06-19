@@ -505,6 +505,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2592-maximize-greatness-of-an-array](https://github.com/Aditii-12/leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Aditii-12/leetcode/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Aditii-12/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/Aditii-12/leetcode/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aditii-12/leetcode/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Aditii-12/leetcode/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 ## Sorting
@@ -583,6 +584,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditii-12/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aditii-12/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3608-minimum-time-for-k-connected-components](https://github.com/Aditii-12/leetcode/tree/main/3608-minimum-time-for-k-connected-components/) | Medium |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/Aditii-12/leetcode/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aditii-12/leetcode/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Aditii-12/leetcode/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 ## Bit Manipulation
@@ -808,6 +810,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Aditii-12/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aditii-12/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/Aditii-12/leetcode/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Aditii-12/leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
