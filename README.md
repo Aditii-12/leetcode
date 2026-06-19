@@ -160,6 +160,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Aditii-12/leetcode/tree/main/1775-equal-sum-arrays-with-minimum-number-of-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aditii-12/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditii-12/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/Aditii-12/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/Aditii-12/leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [1905-count-sub-islands](https://github.com/Aditii-12/leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Aditii-12/leetcode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
@@ -274,6 +275,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aditii-12/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aditii-12/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/Aditii-12/leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
+| [1861-rotating-the-box](https://github.com/Aditii-12/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1905-count-sub-islands](https://github.com/Aditii-12/leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Aditii-12/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditii-12/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -484,6 +486,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aditii-12/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Aditii-12/leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditii-12/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/Aditii-12/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/Aditii-12/leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aditii-12/leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aditii-12/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
