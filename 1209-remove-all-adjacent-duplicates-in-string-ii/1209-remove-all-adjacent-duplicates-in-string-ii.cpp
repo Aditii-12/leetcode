@@ -1,16 +1,21 @@
 class Solution {
 public:
     string removeDuplicates(string s, int k) {
-        string res;
+        vector<pair<char,int>>st;
         for(char ch:s){
-            res.push_back(ch);
-            if(res.size()>=k){
-                string temp(k,ch);
-                if(res.substr(res.size()-k)==temp){
-                    res.erase(res.size()-k);
-                }
+            if(!st.empty() && st.back().first==ch){
+                st.back().second++;
+                if(st.back().second==k) 
+                    st.pop_back();
+            }
+            else{
+                st.push_back({ch,1});
             }
         }
-        return res;
+        string ans;
+        for(auto[c,f]:st){
+            ans.append(f,c);
+        }
+        return ans;
     }
 };
