@@ -328,6 +328,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aditii-12/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Aditii-12/leetcode/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Aditii-12/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/Aditii-12/leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aditii-12/leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1400-construct-k-palindrome-strings](https://github.com/Aditii-12/leetcode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1405-longest-happy-string](https://github.com/Aditii-12/leetcode/tree/main/1405-longest-happy-string/) | Medium |
@@ -396,6 +397,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0567-permutation-in-string](https://github.com/Aditii-12/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aditii-12/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Aditii-12/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/Aditii-12/leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditii-12/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Aditii-12/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aditii-12/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -471,6 +473,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0560-subarray-sum-equals-k](https://github.com/Aditii-12/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Aditii-12/leetcode/tree/main/1124-longest-well-performing-interval/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/Aditii-12/leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditii-12/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Aditii-12/leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Aditii-12/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -589,6 +592,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0875-koko-eating-bananas](https://github.com/Aditii-12/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditii-12/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Aditii-12/leetcode/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/Aditii-12/leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Aditii-12/leetcode/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aditii-12/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aditii-12/leetcode/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
