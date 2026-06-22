@@ -117,6 +117,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditii-12/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0934-shortest-bridge](https://github.com/Aditii-12/leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Aditii-12/leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/Aditii-12/leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0969-pancake-sorting](https://github.com/Aditii-12/leetcode/tree/main/0969-pancake-sorting/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Aditii-12/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
@@ -508,6 +509,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0809-expressive-words](https://github.com/Aditii-12/leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/Aditii-12/leetcode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Aditii-12/leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/Aditii-12/leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0969-pancake-sorting](https://github.com/Aditii-12/leetcode/tree/main/0969-pancake-sorting/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Aditii-12/leetcode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aditii-12/leetcode/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
@@ -811,6 +813,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0853-car-fleet](https://github.com/Aditii-12/leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/Aditii-12/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditii-12/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/Aditii-12/leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditii-12/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aditii-12/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -834,6 +837,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0769-max-chunks-to-make-sorted](https://github.com/Aditii-12/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0853-car-fleet](https://github.com/Aditii-12/leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/Aditii-12/leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [0962-maximum-width-ramp](https://github.com/Aditii-12/leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditii-12/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aditii-12/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
