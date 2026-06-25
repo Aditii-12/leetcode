@@ -203,6 +203,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Aditii-12/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aditii-12/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Aditii-12/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditii-12/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aditii-12/leetcode/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Aditii-12/leetcode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
@@ -458,6 +459,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2784-check-if-array-is-good](https://github.com/Aditii-12/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditii-12/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aditii-12/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Aditii-12/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditii-12/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/Aditii-12/leetcode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3926-count-valid-word-occurrences](https://github.com/Aditii-12/leetcode/tree/main/3926-count-valid-word-occurrences/) | Medium |
@@ -491,6 +493,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Aditii-12/leetcode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Aditii-12/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aditii-12/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Aditii-12/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -651,6 +654,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Aditii-12/leetcode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Aditii-12/leetcode/tree/main/1775-equal-sum-arrays-with-minimum-number-of-operations/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/Aditii-12/leetcode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Aditii-12/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Aditii-12/leetcode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3913-sort-vowels-by-frequency](https://github.com/Aditii-12/leetcode/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 | [3926-count-valid-word-occurrences](https://github.com/Aditii-12/leetcode/tree/main/3926-count-valid-word-occurrences/) | Medium |
@@ -663,6 +667,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0347-top-k-frequent-elements](https://github.com/Aditii-12/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditii-12/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Aditii-12/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -784,6 +789,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/Aditii-12/leetcode/tree/main/1622-fancy-sequence/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Aditii-12/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1137,4 +1143,8 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditii-12/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Aditii-12/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
