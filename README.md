@@ -705,6 +705,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1753-maximum-score-from-removing-stones](https://github.com/Aditii-12/leetcode/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditii-12/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aditii-12/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Aditii-12/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditii-12/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditii-12/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Aditii-12/leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
@@ -1015,6 +1016,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Aditii-12/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aditii-12/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aditii-12/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Aditii-12/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1134,6 +1136,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1627-graph-connectivity-with-threshold](https://github.com/Aditii-12/leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Aditii-12/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Aditii-12/leetcode/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
