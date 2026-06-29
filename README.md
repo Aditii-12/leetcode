@@ -255,6 +255,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1642-furthest-building-you-can-reach](https://github.com/Aditii-12/leetcode/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Aditii-12/leetcode/tree/main/1733-minimum-number-of-people-to-teach/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/Aditii-12/leetcode/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
+| [1754-largest-merge-of-two-strings](https://github.com/Aditii-12/leetcode/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Aditii-12/leetcode/tree/main/1775-equal-sum-arrays-with-minimum-number-of-operations/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditii-12/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditii-12/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -353,6 +354,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Aditii-12/leetcode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Aditii-12/leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
+| [1754-largest-merge-of-two-strings](https://github.com/Aditii-12/leetcode/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Aditii-12/leetcode/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aditii-12/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/Aditii-12/leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
@@ -539,6 +541,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aditii-12/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Aditii-12/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Aditii-12/leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
+| [1754-largest-merge-of-two-strings](https://github.com/Aditii-12/leetcode/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Aditii-12/leetcode/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditii-12/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Aditii-12/leetcode/tree/main/1861-rotating-the-box/) | Medium |
