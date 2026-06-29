@@ -227,6 +227,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0316-remove-duplicate-letters](https://github.com/Aditii-12/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Aditii-12/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0649-dota2-senate](https://github.com/Aditii-12/leetcode/tree/main/0649-dota2-senate/) | Medium |
+| [0670-maximum-swap](https://github.com/Aditii-12/leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [0767-reorganize-string](https://github.com/Aditii-12/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/Aditii-12/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Aditii-12/leetcode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
@@ -709,6 +710,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0477-total-hamming-distance](https://github.com/Aditii-12/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Aditii-12/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/Aditii-12/leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0670-maximum-swap](https://github.com/Aditii-12/leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [0788-rotated-digits](https://github.com/Aditii-12/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Aditii-12/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aditii-12/leetcode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
