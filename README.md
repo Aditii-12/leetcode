@@ -63,6 +63,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0011-container-with-most-water](https://github.com/Aditii-12/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Aditii-12/leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Aditii-12/leetcode/tree/main/0018-4sum/) | Medium |
+| [0031-next-permutation](https://github.com/Aditii-12/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aditii-12/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditii-12/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/Aditii-12/leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -505,6 +506,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0011-container-with-most-water](https://github.com/Aditii-12/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Aditii-12/leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Aditii-12/leetcode/tree/main/0018-4sum/) | Medium |
+| [0031-next-permutation](https://github.com/Aditii-12/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Aditii-12/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aditii-12/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aditii-12/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
