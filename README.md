@@ -352,6 +352,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1208-get-equal-substrings-within-budget](https://github.com/Aditii-12/leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aditii-12/leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Aditii-12/leetcode/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditii-12/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1400-construct-k-palindrome-strings](https://github.com/Aditii-12/leetcode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1405-longest-happy-string](https://github.com/Aditii-12/leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Aditii-12/leetcode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
@@ -427,6 +428,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0904-fruit-into-baskets](https://github.com/Aditii-12/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/Aditii-12/leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Aditii-12/leetcode/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditii-12/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditii-12/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Aditii-12/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aditii-12/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -468,6 +470,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aditii-12/leetcode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Aditii-12/leetcode/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Aditii-12/leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditii-12/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1400-construct-k-palindrome-strings](https://github.com/Aditii-12/leetcode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Aditii-12/leetcode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Aditii-12/leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
