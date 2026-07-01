@@ -187,6 +187,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Aditii-12/leetcode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Aditii-12/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Aditii-12/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2488-count-subarrays-with-median-k](https://github.com/Aditii-12/leetcode/tree/main/2488-count-subarrays-with-median-k/) | Hard |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Aditii-12/leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Aditii-12/leetcode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Aditii-12/leetcode/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
@@ -491,6 +492,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2262-total-appeal-of-a-string](https://github.com/Aditii-12/leetcode/tree/main/2262-total-appeal-of-a-string/) | Hard |
 | [2352-equal-row-and-column-pairs](https://github.com/Aditii-12/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditii-12/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2488-count-subarrays-with-median-k](https://github.com/Aditii-12/leetcode/tree/main/2488-count-subarrays-with-median-k/) | Hard |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Aditii-12/leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2615-sum-of-distances](https://github.com/Aditii-12/leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Aditii-12/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -524,6 +526,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1732-find-the-highest-altitude](https://github.com/Aditii-12/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1915-number-of-wonderful-substrings](https://github.com/Aditii-12/leetcode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/Aditii-12/leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
+| [2488-count-subarrays-with-median-k](https://github.com/Aditii-12/leetcode/tree/main/2488-count-subarrays-with-median-k/) | Hard |
 | [2615-sum-of-distances](https://github.com/Aditii-12/leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Aditii-12/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aditii-12/leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
