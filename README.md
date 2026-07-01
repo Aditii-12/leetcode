@@ -225,6 +225,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Aditii-12/leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Aditii-12/leetcode/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
 | [3926-count-valid-word-occurrences](https://github.com/Aditii-12/leetcode/tree/main/3926-count-valid-word-occurrences/) | Medium |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aditii-12/leetcode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,6 +286,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aditii-12/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aditii-12/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Aditii-12/leetcode/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aditii-12/leetcode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -644,6 +646,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3608-minimum-time-for-k-connected-components](https://github.com/Aditii-12/leetcode/tree/main/3608-minimum-time-for-k-connected-components/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Aditii-12/leetcode/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3913-sort-vowels-by-frequency](https://github.com/Aditii-12/leetcode/tree/main/3913-sort-vowels-by-frequency/) | Medium |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aditii-12/leetcode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
