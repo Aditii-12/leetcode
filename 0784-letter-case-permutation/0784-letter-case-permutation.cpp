@@ -1,28 +1,22 @@
 class Solution {
 public:
-    vector<string>ans;
-    void func(int idx,string& curr,string& s){
-        if(curr.size()==s.size()){
+    vector<string> ans;
+    void func(int idx, string curr, string &s) {
+        if (idx==s.size()) {
             ans.push_back(curr);
             return;
         }
-        if(isdigit(s[idx])){
-            curr+=s[idx];
-            func(idx+1,curr,s);
-            curr.pop_back();
+        if (isdigit(s[idx])) {
+            func(idx+1,curr+s[idx],s);
         }
-        else{
-            curr+=(tolower(s[idx]));
-            func(idx+1,curr,s);
-            curr.pop_back();
-            curr+=(toupper(s[idx]));
-            func(idx+1,curr,s);
-            curr.pop_back();
+        else {
+            func(idx+1,curr+(char)tolower(s[idx]),s);
+            func(idx+1,curr+(char)toupper(s[idx]),s);
         }
     }
+
     vector<string> letterCasePermutation(string s) {
-        string curr="";
-        func(0,curr,s);
+        func(0,"",s);
         return ans;
     }
 };
