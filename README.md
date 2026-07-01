@@ -343,6 +343,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0721-accounts-merge](https://github.com/Aditii-12/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/Aditii-12/leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0767-reorganize-string](https://github.com/Aditii-12/leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0784-letter-case-permutation](https://github.com/Aditii-12/leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0796-rotate-string](https://github.com/Aditii-12/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0809-expressive-words](https://github.com/Aditii-12/leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Aditii-12/leetcode/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
@@ -515,6 +516,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0078-subsets](https://github.com/Aditii-12/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Aditii-12/leetcode/tree/main/0079-word-search/) | Medium |
 | [0113-path-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0784-letter-case-permutation](https://github.com/Aditii-12/leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Aditii-12/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -686,6 +688,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0287-find-the-duplicate-number](https://github.com/Aditii-12/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/Aditii-12/leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Aditii-12/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
+| [0784-letter-case-permutation](https://github.com/Aditii-12/leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Aditii-12/leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Aditii-12/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Aditii-12/leetcode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
