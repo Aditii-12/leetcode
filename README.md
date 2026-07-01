@@ -353,6 +353,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Aditii-12/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Aditii-12/leetcode/tree/main/1061-lexicographically-smallest-equivalent-string/) | Medium |
+| [1079-letter-tile-possibilities](https://github.com/Aditii-12/leetcode/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aditii-12/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Aditii-12/leetcode/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Aditii-12/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -473,6 +474,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Aditii-12/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1079-letter-tile-possibilities](https://github.com/Aditii-12/leetcode/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Aditii-12/leetcode/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aditii-12/leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Aditii-12/leetcode/tree/main/1124-longest-well-performing-interval/) | Medium |
@@ -519,6 +521,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0784-letter-case-permutation](https://github.com/Aditii-12/leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Aditii-12/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [1079-letter-tile-possibilities](https://github.com/Aditii-12/leetcode/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -705,6 +708,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0692-top-k-frequent-words](https://github.com/Aditii-12/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Aditii-12/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Aditii-12/leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1079-letter-tile-possibilities](https://github.com/Aditii-12/leetcode/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Aditii-12/leetcode/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Aditii-12/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1400-construct-k-palindrome-strings](https://github.com/Aditii-12/leetcode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
