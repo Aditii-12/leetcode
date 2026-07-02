@@ -210,6 +210,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Aditii-12/leetcode/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditii-12/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Aditii-12/leetcode/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditii-12/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditii-12/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Aditii-12/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aditii-12/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -321,6 +322,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2906-construct-product-matrix](https://github.com/Aditii-12/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditii-12/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Aditii-12/leetcode/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditii-12/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Aditii-12/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aditii-12/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Aditii-12/leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -770,6 +772,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Aditii-12/leetcode/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Aditii-12/leetcode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditii-12/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditii-12/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditii-12/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -856,6 +859,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2285-maximum-total-importance-of-roads](https://github.com/Aditii-12/leetcode/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Aditii-12/leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aditii-12/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditii-12/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aditii-12/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3608-minimum-time-for-k-connected-components](https://github.com/Aditii-12/leetcode/tree/main/3608-minimum-time-for-k-connected-components/) | Medium |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Aditii-12/leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
@@ -953,6 +957,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0399-evaluate-division](https://github.com/Aditii-12/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aditii-12/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/Aditii-12/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditii-12/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1071,6 +1076,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditii-12/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aditii-12/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditii-12/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditii-12/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/Aditii-12/leetcode/tree/main/3905-multi-source-flood-fill/) | Medium |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Aditii-12/leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
