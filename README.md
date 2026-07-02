@@ -68,6 +68,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditii-12/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Aditii-12/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/Aditii-12/leetcode/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/Aditii-12/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Aditii-12/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Aditii-12/leetcode/tree/main/0075-sort-colors/) | Medium |
@@ -523,6 +524,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditii-12/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/Aditii-12/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/Aditii-12/leetcode/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/Aditii-12/leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Aditii-12/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Aditii-12/leetcode/tree/main/0079-word-search/) | Medium |
