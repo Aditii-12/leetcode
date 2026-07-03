@@ -1004,6 +1004,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1202-smallest-string-with-swaps](https://github.com/Aditii-12/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Aditii-12/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Aditii-12/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/Aditii-12/leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aditii-12/leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aditii-12/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Aditii-12/leetcode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -1059,6 +1060,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1202-smallest-string-with-swaps](https://github.com/Aditii-12/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Aditii-12/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Aditii-12/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/Aditii-12/leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aditii-12/leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aditii-12/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -1159,6 +1161,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aditii-12/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditii-12/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aditii-12/leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/Aditii-12/leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aditii-12/leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Aditii-12/leetcode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1367-linked-list-in-binary-tree/) | Medium |
@@ -1211,6 +1214,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aditii-12/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditii-12/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aditii-12/leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/Aditii-12/leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aditii-12/leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Aditii-12/leetcode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1367-linked-list-in-binary-tree/) | Medium |
