@@ -192,6 +192,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Aditii-12/leetcode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Aditii-12/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Aditii-12/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Aditii-12/leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2488-count-subarrays-with-median-k](https://github.com/Aditii-12/leetcode/tree/main/2488-count-subarrays-with-median-k/) | Hard |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Aditii-12/leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Aditii-12/leetcode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
@@ -317,6 +318,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Aditii-12/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditii-12/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Aditii-12/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Aditii-12/leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Aditii-12/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditii-12/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Aditii-12/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -415,6 +417,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2352-equal-row-and-column-pairs](https://github.com/Aditii-12/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Aditii-12/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Aditii-12/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Aditii-12/leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditii-12/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Aditii-12/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Dynamic Programming
