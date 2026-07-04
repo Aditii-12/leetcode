@@ -1,42 +1,38 @@
 class Solution {
 public:
-    bool func(vector<int>&bloom,int m,int k,int mid){
-        int n=bloom.size();
+    bool func(int mid,vector<int>& bd,int m,int k){
         int bou=0;
-        int flo=0; 
-        for(int i=0;i<n;i++){
-            if(bloom[i]<=mid){
-                flo++;
-                if(flo==k) {
+        int temp=0;
+        for(int i=0;i<bd.size();i++){
+            if(bd[i]<=mid){
+                temp++;
+                if(temp==k) {
                     bou++;
-                    flo=0;
+                    temp=0;
                 }
             }
             else{
-                flo=0; //reset
-                //as they need to be adjacent
+                temp=0;
             }
+            if(temp==k) bou++;
         }
-        if(bou>=m) return 1;
-        return 0;
+        return bou>=m;
     }
-    int minDays(vector<int>& bloom, int m, int k) {
-        if((long long)m*k> bloom.size()) return -1;
-        int n=bloom.size();
+    int minDays(vector<int>& bd, int m, int k) {
+        if((long long)m*k>bd.size()) return -1;
         int l=1;
+        int h=*max_element(bd.begin(),bd.end());
         int ans=-1;
-        int h=*max_element(bloom.begin(),bloom.end());
         while(l<=h){
             int mid=l+(h-l)/2;
-            if(func(bloom,m,k,mid)){
+            if(func(mid,bd,m,k)){
                 ans=mid;
-                h=mid-1; //chota ans dhudne ka try krenge
+                h=mid-1;
             }
             else{
                 l=mid+1;
             }
         }
         return ans;
-
     }
 };
