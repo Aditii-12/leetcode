@@ -86,6 +86,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0200-number-of-islands](https://github.com/Aditii-12/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditii-12/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Aditii-12/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Aditii-12/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditii-12/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Aditii-12/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0275-h-index-ii](https://github.com/Aditii-12/leetcode/tree/main/0275-h-index-ii/) | Medium |
@@ -448,6 +449,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditii-12/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aditii-12/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/Aditii-12/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Aditii-12/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Aditii-12/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aditii-12/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -759,6 +761,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditii-12/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Aditii-12/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Aditii-12/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aditii-12/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Aditii-12/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -891,6 +894,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Aditii-12/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0649-dota2-senate](https://github.com/Aditii-12/leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditii-12/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Aditii-12/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -902,6 +906,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Aditii-12/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditii-12/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Aditii-12/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Stack
