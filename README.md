@@ -148,6 +148,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Aditii-12/leetcode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aditii-12/leetcode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Aditii-12/leetcode/tree/main/1300-sum-of-mutated-array-closest-to-target/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/Aditii-12/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1338-reduce-array-size-to-the-half](https://github.com/Aditii-12/leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1383-maximum-performance-of-a-team](https://github.com/Aditii-12/leetcode/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditii-12/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -315,6 +316,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0934-shortest-bridge](https://github.com/Aditii-12/leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Aditii-12/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Aditii-12/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/Aditii-12/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditii-12/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aditii-12/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aditii-12/leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -441,6 +443,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Aditii-12/leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Aditii-12/leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/Aditii-12/leetcode/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/Aditii-12/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aditii-12/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aditii-12/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
