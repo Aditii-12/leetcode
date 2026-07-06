@@ -193,6 +193,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aditii-12/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aditii-12/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/Aditii-12/leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
+| [2187-minimum-time-to-complete-trips](https://github.com/Aditii-12/leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aditii-12/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Aditii-12/leetcode/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Aditii-12/leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
@@ -714,6 +715,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditii-12/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/Aditii-12/leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aditii-12/leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2187-minimum-time-to-complete-trips](https://github.com/Aditii-12/leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Aditii-12/leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Aditii-12/leetcode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Aditii-12/leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
