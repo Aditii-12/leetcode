@@ -135,6 +135,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditii-12/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditii-12/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1029-two-city-scheduling](https://github.com/Aditii-12/leetcode/tree/main/1029-two-city-scheduling/) | Medium |
+| [1034-coloring-a-border](https://github.com/Aditii-12/leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1053-previous-permutation-with-one-swap](https://github.com/Aditii-12/leetcode/tree/main/1053-previous-permutation-with-one-swap/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Aditii-12/leetcode/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aditii-12/leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
@@ -323,6 +324,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Aditii-12/leetcode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Aditii-12/leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0934-shortest-bridge](https://github.com/Aditii-12/leetcode/tree/main/0934-shortest-bridge/) | Medium |
+| [1034-coloring-a-border](https://github.com/Aditii-12/leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Aditii-12/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Aditii-12/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Aditii-12/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -1047,6 +1049,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0979-distribute-coins-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aditii-12/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1034-coloring-a-border](https://github.com/Aditii-12/leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditii-12/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aditii-12/leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Aditii-12/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
@@ -1105,6 +1108,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0934-shortest-bridge](https://github.com/Aditii-12/leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1034-coloring-a-border](https://github.com/Aditii-12/leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Aditii-12/leetcode/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Aditii-12/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Aditii-12/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
