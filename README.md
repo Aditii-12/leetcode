@@ -180,6 +180,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aditii-12/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditii-12/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Aditii-12/leetcode/tree/main/1861-rotating-the-box/) | Medium |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Aditii-12/leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/Aditii-12/leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [1905-count-sub-islands](https://github.com/Aditii-12/leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Aditii-12/leetcode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
@@ -713,6 +714,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aditii-12/leetcode/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Aditii-12/leetcode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditii-12/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Aditii-12/leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/Aditii-12/leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aditii-12/leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/Aditii-12/leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
