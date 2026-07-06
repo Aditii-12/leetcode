@@ -211,6 +211,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2592-maximize-greatness-of-an-array](https://github.com/Aditii-12/leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2594-minimum-time-to-repair-cars](https://github.com/Aditii-12/leetcode/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 | [2615-sum-of-distances](https://github.com/Aditii-12/leetcode/tree/main/2615-sum-of-distances/) | Medium |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Aditii-12/leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Aditii-12/leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Aditii-12/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditii-12/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -298,6 +299,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2542-maximum-subsequence-score](https://github.com/Aditii-12/leetcode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Aditii-12/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2592-maximize-greatness-of-an-array](https://github.com/Aditii-12/leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Aditii-12/leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2895-minimum-processing-time](https://github.com/Aditii-12/leetcode/tree/main/2895-minimum-processing-time/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/Aditii-12/leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Aditii-12/leetcode/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
@@ -456,6 +458,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2063-vowels-of-all-substrings](https://github.com/Aditii-12/leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2262-total-appeal-of-a-string](https://github.com/Aditii-12/leetcode/tree/main/2262-total-appeal-of-a-string/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Aditii-12/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Aditii-12/leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aditii-12/leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Aditii-12/leetcode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Aditii-12/leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
@@ -678,6 +681,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Aditii-12/leetcode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Aditii-12/leetcode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/Aditii-12/leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Aditii-12/leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Aditii-12/leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Aditii-12/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2895-minimum-processing-time](https://github.com/Aditii-12/leetcode/tree/main/2895-minimum-processing-time/) | Medium |
@@ -724,6 +728,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Aditii-12/leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Aditii-12/leetcode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2594-minimum-time-to-repair-cars](https://github.com/Aditii-12/leetcode/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
+| [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Aditii-12/leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Aditii-12/leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditii-12/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2861-maximum-number-of-alloys](https://github.com/Aditii-12/leetcode/tree/main/2861-maximum-number-of-alloys/) | Medium |
