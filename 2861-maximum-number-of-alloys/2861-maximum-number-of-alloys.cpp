@@ -1,30 +1,31 @@
 class Solution {
 public:
-    bool possible(vector<vector<int>>& composition, vector<int>& stock, vector<int>& cost,int mid, int budget){
-        int k=composition.size();
-        int n=stock.size();
-        for(int i=0;i<k;i++){ //iterate over machines
-            long long money=0;
+    using ll=long long;
+    bool func(int mid,vector<vector<int>>& comp,vector<int>&st, vector<int>&c, int budget){
+        int k=comp.size();
+        int n=comp[0].size();
+        for(int i=0;i<k;i++){
+            ll mon=0;
             for(int j=0;j<n;j++){
-                long long needed=1LL*composition[i][j]*mid;
-                long long ext=max(0LL,needed-stock[j]);
-                money+=ext*cost[j];
+                ll needed=(ll)comp[i][j]*mid;
+                ll ex=max(0LL,needed-st[j]);
+                mon+=(ll)ex*c[j];
             }
-            if(money<=budget) return 1;
+            if(mon<=budget) return 1;
         }
         return 0;
     }
     int maxNumberOfAlloys(int n, int k, int budget, vector<vector<int>>& composition, vector<int>& stock, vector<int>& cost) {
         int l=0;
-        int r=1e9;
+        int h=1e9;
         int ans=0;
-        while(l<=r){
-            int mid=l+(r-l)/2;
-            if(possible(composition,stock,cost,mid,budget)){
+        while(l<=h){
+            int mid=l+(h-l)/2;
+            if(func(mid,composition,stock,cost,budget)){
                 ans=mid;
                 l=mid+1;
             }
-            else r=mid-1;
+            else h=mid-1;
         }
         return ans;
     }
