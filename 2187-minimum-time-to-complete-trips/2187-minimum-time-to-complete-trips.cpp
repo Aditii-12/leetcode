@@ -1,28 +1,26 @@
-#define ll long long
 class Solution {
 public:
-    bool func(ll mid,vector<int>&time,ll tt){
-        ll total=0; //total trips
-        for(int i=0;i<time.size();i++){
-            total+=mid/time[i];
-            if(total>=tt) return 1;
+using ll=long long;
+    bool func(ll mid,vector<int>&v, int tts){
+        ll t=0;
+        for(auto it:v){
+            t+=mid/it;
+            if(t>=tts) return 1;
         }
-        return 0;
+        return t>=tts;
     }
-    long long minimumTime(vector<int>& time, int tt) {
-        ll n=time.size();
+    long long minimumTime(vector<int>& time, int tts) {
+        int n=time.size();
         ll l=1;
-        ll h=(ll) *min_element(time.begin(),time.end())*tt;
+        ll h=(ll)*min_element(time.begin(),time.end())*tts;
         ll ans=h;
         while(l<=h){
-            ll m=l+(h-l)/2;
-            if(func(m,time,tt)){
-                ans=m;
-                h=m-1;
+            ll mid=l+(h-l)/2;
+            if(func(mid,time,tts)){
+                ans=mid;
+                h=mid-1;
             }
-            else{
-                l=m+1;
-            }
+            else l=mid+1;
         }
         return ans;
     }
