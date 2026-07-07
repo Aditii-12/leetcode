@@ -246,6 +246,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Aditii-12/leetcode/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
 | [3926-count-valid-word-occurrences](https://github.com/Aditii-12/leetcode/tree/main/3926-count-valid-word-occurrences/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aditii-12/leetcode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
+| [3975-filter-occupied-intervals](https://github.com/Aditii-12/leetcode/tree/main/3975-filter-occupied-intervals/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -695,6 +696,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Aditii-12/leetcode/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3913-sort-vowels-by-frequency](https://github.com/Aditii-12/leetcode/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aditii-12/leetcode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
+| [3975-filter-occupied-intervals](https://github.com/Aditii-12/leetcode/tree/main/3975-filter-occupied-intervals/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
