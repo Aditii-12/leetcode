@@ -215,6 +215,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2594-minimum-time-to-repair-cars](https://github.com/Aditii-12/leetcode/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
 | [2615-sum-of-distances](https://github.com/Aditii-12/leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Aditii-12/leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditii-12/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Aditii-12/leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Aditii-12/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditii-12/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -546,6 +547,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2488-count-subarrays-with-median-k](https://github.com/Aditii-12/leetcode/tree/main/2488-count-subarrays-with-median-k/) | Hard |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Aditii-12/leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2615-sum-of-distances](https://github.com/Aditii-12/leetcode/tree/main/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditii-12/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Aditii-12/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditii-12/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aditii-12/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -763,6 +765,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Aditii-12/leetcode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1915-number-of-wonderful-substrings](https://github.com/Aditii-12/leetcode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditii-12/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aditii-12/leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aditii-12/leetcode/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Aditii-12/leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
