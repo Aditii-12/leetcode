@@ -201,6 +201,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2126-destroying-asteroids](https://github.com/Aditii-12/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/Aditii-12/leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aditii-12/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Aditii-12/leetcode/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Aditii-12/leetcode/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Aditii-12/leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Aditii-12/leetcode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
@@ -301,6 +302,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aditii-12/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Aditii-12/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/Aditii-12/leetcode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Aditii-12/leetcode/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Aditii-12/leetcode/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [2285-maximum-total-importance-of-roads](https://github.com/Aditii-12/leetcode/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Aditii-12/leetcode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
@@ -831,6 +833,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1753-maximum-score-from-removing-stones](https://github.com/Aditii-12/leetcode/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Aditii-12/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/Aditii-12/leetcode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Aditii-12/leetcode/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2285-maximum-total-importance-of-roads](https://github.com/Aditii-12/leetcode/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Aditii-12/leetcode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Aditii-12/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
