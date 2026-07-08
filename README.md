@@ -426,6 +426,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aditii-12/leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Aditii-12/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/Aditii-12/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Aditii-12/leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3913-sort-vowels-by-frequency](https://github.com/Aditii-12/leetcode/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 | [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/Aditii-12/leetcode/tree/main/3922-minimum-flips-to-make-binary-string-coherent/) | Medium |
@@ -605,6 +606,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3546-equal-sum-grid-partition-i](https://github.com/Aditii-12/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aditii-12/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditii-12/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -865,6 +867,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditii-12/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditii-12/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aditii-12/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Aditii-12/leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 | [3871-count-commas-in-range-ii](https://github.com/Aditii-12/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aditii-12/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
