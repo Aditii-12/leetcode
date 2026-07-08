@@ -6,7 +6,7 @@ public:
         while(k--){
             int x=pq.top();
             pq.pop();
-            x=x-x/2;
+            x-=x/2;
             pq.push(x);
         }
         int sum=0;
