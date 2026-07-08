@@ -104,6 +104,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0525-contiguous-array](https://github.com/Aditii-12/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditii-12/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aditii-12/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aditii-12/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0654-maximum-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aditii-12/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0690-employee-importance](https://github.com/Aditii-12/leetcode/tree/main/0690-employee-importance/) | Medium |
@@ -258,6 +259,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0316-remove-duplicate-letters](https://github.com/Aditii-12/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Aditii-12/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Aditii-12/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aditii-12/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0649-dota2-senate](https://github.com/Aditii-12/leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0670-maximum-swap](https://github.com/Aditii-12/leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [0767-reorganize-string](https://github.com/Aditii-12/leetcode/tree/main/0767-reorganize-string/) | Medium |
@@ -479,6 +481,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0239-sliding-window-maximum](https://github.com/Aditii-12/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Aditii-12/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Aditii-12/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aditii-12/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/Aditii-12/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Aditii-12/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/Aditii-12/leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
@@ -507,6 +510,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0525-contiguous-array](https://github.com/Aditii-12/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aditii-12/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Aditii-12/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aditii-12/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0652-find-duplicate-subtrees](https://github.com/Aditii-12/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0690-employee-importance](https://github.com/Aditii-12/leetcode/tree/main/0690-employee-importance/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aditii-12/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -658,6 +662,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0347-top-k-frequent-elements](https://github.com/Aditii-12/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Aditii-12/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0475-heaters](https://github.com/Aditii-12/leetcode/tree/main/0475-heaters/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aditii-12/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/Aditii-12/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aditii-12/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/Aditii-12/leetcode/tree/main/0721-accounts-merge/) | Medium |
@@ -810,6 +815,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0347-top-k-frequent-elements](https://github.com/Aditii-12/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aditii-12/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Aditii-12/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aditii-12/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/Aditii-12/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aditii-12/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Aditii-12/leetcode/tree/main/0767-reorganize-string/) | Medium |
