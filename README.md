@@ -129,6 +129,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Aditii-12/leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/Aditii-12/leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0969-pancake-sorting](https://github.com/Aditii-12/leetcode/tree/main/0969-pancake-sorting/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Aditii-12/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Aditii-12/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -667,6 +668,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0853-car-fleet](https://github.com/Aditii-12/leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Aditii-12/leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0969-pancake-sorting](https://github.com/Aditii-12/leetcode/tree/main/0969-pancake-sorting/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Aditii-12/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1029-two-city-scheduling](https://github.com/Aditii-12/leetcode/tree/main/1029-two-city-scheduling/) | Medium |
 | [1090-largest-values-from-labels](https://github.com/Aditii-12/leetcode/tree/main/1090-largest-values-from-labels/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Aditii-12/leetcode/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
@@ -798,6 +800,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0347-top-k-frequent-elements](https://github.com/Aditii-12/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditii-12/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Aditii-12/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditii-12/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -810,6 +813,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0658-find-k-closest-elements](https://github.com/Aditii-12/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aditii-12/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Aditii-12/leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Aditii-12/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Aditii-12/leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1383-maximum-performance-of-a-team](https://github.com/Aditii-12/leetcode/tree/main/1383-maximum-performance-of-a-team/) | Hard |
 | [1405-longest-happy-string](https://github.com/Aditii-12/leetcode/tree/main/1405-longest-happy-string/) | Medium |
@@ -836,6 +840,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0556-next-greater-element-iii](https://github.com/Aditii-12/leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0670-maximum-swap](https://github.com/Aditii-12/leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [0788-rotated-digits](https://github.com/Aditii-12/leetcode/tree/main/0788-rotated-digits/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Aditii-12/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Aditii-12/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aditii-12/leetcode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1622-fancy-sequence](https://github.com/Aditii-12/leetcode/tree/main/1622-fancy-sequence/) | Hard |
@@ -1192,6 +1197,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditii-12/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aditii-12/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Aditii-12/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1301,6 +1307,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Aditii-12/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aditii-12/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
