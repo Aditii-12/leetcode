@@ -1,13 +1,13 @@
 class Solution {
 public:
-    string removeKdigits(string num, int k) {
+    string removeKdigits(string s, int k) {
         stack<char>st;
-        for(char c:num){
-            while(!st.empty() && st.top()>c && k>0){
+        for(char ch:s){
+            while(!st.empty() && k>0 && st.top()>ch){
                 st.pop();
                 k--;
             }
-            st.push(c);
+            st.push(ch);
         }
         while(k>0){
             st.pop();
@@ -23,7 +23,6 @@ public:
         while(i<ans.size() && ans[i]=='0') i++;
         ans=ans.substr(i);
         if(ans=="") return "0";
-        else return ans;
-
+        return ans;
     }
 };
