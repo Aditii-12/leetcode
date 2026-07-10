@@ -235,6 +235,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditii-12/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditii-12/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aditii-12/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aditii-12/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Aditii-12/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aditii-12/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Aditii-12/leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -321,6 +322,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Aditii-12/leetcode/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditii-12/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Aditii-12/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aditii-12/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aditii-12/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aditii-12/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Aditii-12/leetcode/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
@@ -482,6 +484,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Aditii-12/leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aditii-12/leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Aditii-12/leetcode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aditii-12/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Aditii-12/leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -660,6 +663,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2592-maximize-greatness-of-an-array](https://github.com/Aditii-12/leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/Aditii-12/leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Aditii-12/leetcode/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aditii-12/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Aditii-12/leetcode/tree/main/3584-maximum-product-of-first-and-last-elements-of-a-subsequence/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Aditii-12/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Aditii-12/leetcode/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
@@ -719,6 +723,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2784-check-if-array-is-good](https://github.com/Aditii-12/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2895-minimum-processing-time](https://github.com/Aditii-12/leetcode/tree/main/2895-minimum-processing-time/) | Medium |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Aditii-12/leetcode/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aditii-12/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Aditii-12/leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3608-minimum-time-for-k-connected-components](https://github.com/Aditii-12/leetcode/tree/main/3608-minimum-time-for-k-connected-components/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Aditii-12/leetcode/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
@@ -769,6 +774,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2861-maximum-number-of-alloys](https://github.com/Aditii-12/leetcode/tree/main/2861-maximum-number-of-alloys/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditii-12/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aditii-12/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aditii-12/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aditii-12/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3608-minimum-time-for-k-connected-components](https://github.com/Aditii-12/leetcode/tree/main/3608-minimum-time-for-k-connected-components/) | Medium |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Aditii-12/leetcode/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
@@ -792,6 +798,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1915-number-of-wonderful-substrings](https://github.com/Aditii-12/leetcode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditii-12/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aditii-12/leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aditii-12/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aditii-12/leetcode/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Aditii-12/leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 ## Counting
@@ -952,6 +959,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aditii-12/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditii-12/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aditii-12/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aditii-12/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aditii-12/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3608-minimum-time-for-k-connected-components](https://github.com/Aditii-12/leetcode/tree/main/3608-minimum-time-for-k-connected-components/) | Medium |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Aditii-12/leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
