@@ -174,6 +174,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aditii-12/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/Aditii-12/leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1642-furthest-building-you-can-reach](https://github.com/Aditii-12/leetcode/tree/main/1642-furthest-building-you-can-reach/) | Medium |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Aditii-12/leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aditii-12/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Aditii-12/leetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Aditii-12/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -290,6 +291,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditii-12/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aditii-12/leetcode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/Aditii-12/leetcode/tree/main/1642-furthest-building-you-can-reach/) | Medium |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Aditii-12/leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Aditii-12/leetcode/tree/main/1733-minimum-number-of-people-to-teach/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/Aditii-12/leetcode/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1754-largest-merge-of-two-strings](https://github.com/Aditii-12/leetcode/tree/main/1754-largest-merge-of-two-strings/) | Medium |
@@ -1012,6 +1014,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Aditii-12/leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aditii-12/leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aditii-12/leetcode/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Aditii-12/leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aditii-12/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Aditii-12/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aditii-12/leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
@@ -1037,6 +1040,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1124-longest-well-performing-interval](https://github.com/Aditii-12/leetcode/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Aditii-12/leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aditii-12/leetcode/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Aditii-12/leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Aditii-12/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
