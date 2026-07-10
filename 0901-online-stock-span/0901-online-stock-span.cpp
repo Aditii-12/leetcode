@@ -1,7 +1,8 @@
 class StockSpanner {
-    stack<pair<int,int>>st;
 public:
-    StockSpanner() {}
+    stack<pair<int,int>>st;
+    StockSpanner() {   
+    }
     
     int next(int price) {
         int ans=1;
@@ -11,7 +12,6 @@ public:
         }
         st.push({price,ans});
         return ans;
-
     }
 };
 
