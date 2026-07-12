@@ -12,16 +12,17 @@ public:
     unordered_map<int,vector<int>>adj;
     void build(TreeNode* root){
         if(!root) return;
-        if(root->left) {
-            adj[root->val].push_back(root->left->val);
+        if(root->left){
             adj[root->left->val].push_back(root->val);
+            adj[root->val].push_back(root->left->val);
+            build(root->left);
         }
-        if(root->right) {
-            adj[root->val].push_back(root->right->val);
+        if(root->right){
             adj[root->right->val].push_back(root->val);
+            adj[root->val].push_back(root->right->val);
+            build(root->right);
         }
-        build(root->left);
-        build(root->right);
+        
     }
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
         build(root);
