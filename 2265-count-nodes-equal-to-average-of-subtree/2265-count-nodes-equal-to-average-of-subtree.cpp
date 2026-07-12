@@ -17,9 +17,9 @@ public:
         auto left=dfs(root->left);
         auto right=dfs(root->right);
         int sum=left.first+right.first+root->val;
-        int cnt=left.second+right.second+1;
-        if(sum/cnt==root->val) ans++;
-        return {sum,cnt};
+        int tot=left.second+right.second+1;
+        if(sum/tot==root->val) ans++;
+        return {sum,tot};
     }
     int averageOfSubtree(TreeNode* root) {
         dfs(root);
