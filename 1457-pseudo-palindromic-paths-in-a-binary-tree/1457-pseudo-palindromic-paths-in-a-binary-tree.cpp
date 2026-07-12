@@ -12,12 +12,12 @@
 class Solution {
 public:
     int ans=0;
-    void dfs(TreeNode* root,vector<int>&freq){
+    void dfs(TreeNode* root,vector<int> freq){
         if(!root) return;
         freq[root->val]++;
         if(!root->left && !root->right){
             int odd=0;
-            for(int i=0;i<=9;i++){
+            for(int i=1;i<=9;i++){
                 if(freq[i]%2==1) odd++;
             }
             if(odd<=1) ans++;
