@@ -12,10 +12,10 @@
 class Solution {
 public:
     int ans=0;
-    void dfs(TreeNode* root,int mini,int maxi){
+    void dfs(TreeNode* root, int mini, int maxi){
         if(!root) return;
-        mini=min(root->val,mini);
-        maxi=max(root->val,maxi);
+        mini=min(mini,root->val);
+        maxi=max(maxi,root->val);
         ans=max(ans,maxi-mini);
         dfs(root->left,mini,maxi);
         dfs(root->right,mini,maxi);
