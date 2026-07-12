@@ -14,10 +14,11 @@ public:
     int dfs(TreeNode* root,int curr){
         if(!root) return 0;
         curr=(curr*10)+root->val;
-        if(!root->left && !root->right){
-            return curr;
-        }
-        return dfs(root->left,curr)+dfs(root->right,curr);
+        if(!root->left && !root->right) return curr;
+        int l=dfs(root->left,curr);
+        int r=dfs(root->right,curr);
+        return l+r;
+        
     }
     int sumNumbers(TreeNode* root) {
         return dfs(root,0);
