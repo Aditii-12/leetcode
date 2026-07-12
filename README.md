@@ -521,6 +521,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0433-minimum-genetic-mutation](https://github.com/Aditii-12/leetcode/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Aditii-12/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aditii-12/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0508-most-frequent-subtree-sum](https://github.com/Aditii-12/leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Aditii-12/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Aditii-12/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aditii-12/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -1094,6 +1095,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0399-evaluate-division](https://github.com/Aditii-12/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Aditii-12/leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0437-path-sum-iii](https://github.com/Aditii-12/leetcode/tree/main/0437-path-sum-iii/) | Medium |
+| [0508-most-frequent-subtree-sum](https://github.com/Aditii-12/leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Aditii-12/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Aditii-12/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aditii-12/leetcode/tree/main/0547-number-of-provinces/) | Medium |
@@ -1275,6 +1277,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/Aditii-12/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Aditii-12/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0508-most-frequent-subtree-sum](https://github.com/Aditii-12/leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Aditii-12/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Aditii-12/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Aditii-12/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
@@ -1330,6 +1333,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/Aditii-12/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Aditii-12/leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0508-most-frequent-subtree-sum](https://github.com/Aditii-12/leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Aditii-12/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Aditii-12/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Aditii-12/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
