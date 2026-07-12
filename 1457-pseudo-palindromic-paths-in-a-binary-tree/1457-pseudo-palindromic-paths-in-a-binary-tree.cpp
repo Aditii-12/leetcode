@@ -12,7 +12,7 @@
 class Solution {
 public:
     int ans=0;
-    void dfs(TreeNode* root,vector<int> freq){
+    void dfs(TreeNode* root,vector<int>& freq){
         if(!root) return;
         freq[root->val]++;
         if(!root->left && !root->right){
