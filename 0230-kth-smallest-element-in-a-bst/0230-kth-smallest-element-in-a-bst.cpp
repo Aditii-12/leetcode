@@ -11,10 +11,10 @@
  */
 class Solution {
 public:
-    int cnt=0;
     int ans=-1;
+    int cnt=0;
     void inorder(TreeNode* root,int k){
-        if(!root || ans!=-1) return;
+        if(!root) return;
         inorder(root->left,k);
         cnt++;
         if(cnt==k){
