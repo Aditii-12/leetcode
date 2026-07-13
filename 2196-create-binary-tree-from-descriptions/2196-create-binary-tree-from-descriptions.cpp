@@ -11,30 +11,31 @@
  */
 class Solution {
 public:
-    TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
+    TreeNode* createBinaryTree(vector<vector<int>>& desc) {
         unordered_map<int,TreeNode*>mpp;
-        unordered_set<int>child;
-        for(auto &d:descriptions){
-            auto parent=d[0];
-            auto ch=d[1];
-            auto left=d[2];
-            if(mpp.find(parent)==mpp.end()){
-                mpp[parent]=new TreeNode(parent);
+        unordered_set<int>st;
+        for(auto it:desc){
+            auto par=it[0];
+            auto ch=it[1];
+            auto left=it[2];
+            if(mpp.find(par)==mpp.end()){
+                TreeNode* parent=new TreeNode(par);
+                mpp[par]=parent;
             }
             if(mpp.find(ch)==mpp.end()){
-                mpp[ch]=new TreeNode(ch);
+                TreeNode* child=new TreeNode(ch);
+                mpp[ch]=child;
             }
-            if(left)
-                mpp[parent]->left=mpp[ch];
-            else 
-                mpp[parent]->right=mpp[ch];
-
-            child.insert(ch);
+            if(left==1){
+                mpp[par]->left=mpp[ch];
+            }
+            else{
+                mpp[par]->right=mpp[ch];
+            }
+            st.insert(ch);
         }
-
         for(auto it:mpp){
-            if(child.find(it.first)==child.end())
-                return it.second;
+            if(st.find(it.first)==st.end()) return it.second;
         }
         return NULL;
     }
