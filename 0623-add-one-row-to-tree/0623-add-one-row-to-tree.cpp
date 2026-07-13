@@ -11,17 +11,17 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root,int val,int depth,int curr)
-    {
-        if(!root)
-            return;
+    void dfs(TreeNode* root,int val,int depth,int curr){
+        if(!root) return;
         if(curr==depth-1){
             TreeNode* oldl=root->left;
             TreeNode* oldr=root->right;
-            root->left=new TreeNode(val);
-            root->right=new TreeNode(val);
-            root->left->left=oldl;
-            root->right->right=oldr;
+            TreeNode* newl=new TreeNode(val);
+            TreeNode* newr=new TreeNode(val);
+            root->left=newl;
+            root->right=newr;
+            newl->left=oldl;
+            newr->right=oldr;
             return;
         }
         dfs(root->left,val,depth,curr+1);
@@ -29,9 +29,9 @@ public:
     }
     TreeNode* addOneRow(TreeNode* root, int val, int depth) {
         if(depth==1){
-            TreeNode* neww=new TreeNode(val);
-            neww->left=root;
-            return neww;
+            TreeNode* r=new TreeNode(val);
+            r->left=root;
+            return r;
         }
         dfs(root,val,depth,1);
         return root;
