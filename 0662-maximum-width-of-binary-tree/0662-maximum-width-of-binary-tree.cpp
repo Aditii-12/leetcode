@@ -11,15 +11,16 @@
  */
 class Solution {
 public:
+    using ll=long long;
     int widthOfBinaryTree(TreeNode* root) {
         long long ans=0;
-        queue<pair<TreeNode*,long long>>q;
+        queue<pair<TreeNode*,ll>>q;
         q.push({root,0});
         while(!q.empty()){
             int n=q.size();
-            long long first=q.front().second; //us level ke first element ka idx
-            long long last=q.back().second; //us level ke last element ka idx
-            long long mini=q.front().second;
+            ll first=q.front().second;
+            ll last=q.back().second;
+            ll mini=q.front().second;
             ans=max(ans,last-first+1);
             for(int i=0;i<n;i++){
                 auto it=q.front();
