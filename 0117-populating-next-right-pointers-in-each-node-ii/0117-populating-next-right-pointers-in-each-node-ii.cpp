@@ -19,6 +19,7 @@ public:
 class Solution {
 public:
     Node* connect(Node* root) {
+        if(!root) return root;
         Node* curr=root;
         while(curr){
             Node* dummy=new Node(0);
