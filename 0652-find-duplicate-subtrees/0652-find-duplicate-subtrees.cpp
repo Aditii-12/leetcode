@@ -11,8 +11,8 @@
  */
 class Solution {
 public:
-    unordered_map<string,int>mpp;
     vector<TreeNode*>ans;
+    unordered_map<string,int>mpp;
     string dfs(TreeNode* root){
         if(!root) return "#";
         string left=dfs(root->left);
