@@ -11,17 +11,15 @@
  */
 class Solution {
 public:
-    TreeNode* build(vector<int>& nums,int l , int r){
-        if(l>r) return NULL;
-        int idx=l; //max element index
-        for(int i=l;i<=r;i++){
-            if(nums[i]>nums[idx]){
-                idx=i;
-            }
+    TreeNode* build(vector<int>& nums,int l,int h){
+        if(l>h) return nullptr;
+        int idx=l;
+        for(int i=l;i<=h;i++){
+            if(nums[i]>nums[idx]) idx=i;
         }
         TreeNode* root=new TreeNode(nums[idx]);
         root->left=build(nums,l,idx-1);
-        root->right=build(nums,idx+1,r);
+        root->right=build(nums,idx+1,h);
         return root;
     }
     TreeNode* constructMaximumBinaryTree(vector<int>& nums) {
