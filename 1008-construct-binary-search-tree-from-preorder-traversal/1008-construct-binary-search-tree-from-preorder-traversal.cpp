@@ -11,17 +11,15 @@
  */
 class Solution {
 public:
-    int idx=0;
-    TreeNode* build(vector<int>& preorder,int low,int high){
-        if(idx>=preorder.size()) return NULL;
-        int val=preorder[idx];
-        if(val<low||val>=high){
-            return NULL;
-        }
+    int i=0;
+    TreeNode* build(vector<int>& pre,int low,int high){
+        if(i>=pre.size()) return NULL;
+        int val=pre[i];
+        if(val<low || val>high) return NULL;
+        i++;
         TreeNode* root=new TreeNode(val);
-        idx++;
-        root->left=build(preorder,low,val);
-        root->right=build(preorder,val,high);
+        root->left=build(pre,low,val);
+        root->right=build(pre,val,high);
         return root;
     }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
