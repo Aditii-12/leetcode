@@ -25,13 +25,13 @@ public:
         if(!head) return 1;
         if(!root) return 0;
         if(root->val!=head->val) return 0;
-        return match(root->left,head->next)||match(root->right,head->next);
+        return match(root->left,head->next) || match(root->right,head->next);
     }
-    bool dfs(TreeNode* root,ListNode* head){
+    bool dfs(ListNode* head,TreeNode* root){
         if(!root) return 0;
-        return match(root,head)||dfs(root->left,head)||dfs(root->right,head);
+        return match(root,head) ||  dfs(head,root->left) || dfs(head,root->right);
     }
     bool isSubPath(ListNode* head, TreeNode* root) {
-        return dfs(root,head);
+        return dfs(head,root);
     }
 };
