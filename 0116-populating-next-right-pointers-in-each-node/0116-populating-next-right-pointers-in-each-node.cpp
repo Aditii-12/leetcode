@@ -19,8 +19,7 @@ public:
 class Solution {
 public:
     Node* connect(Node* root) {
-        if(root==nullptr)
-            return root;
+        if(!root) return root;
         Node* leftmo=root;
         while(leftmo->left){
             Node* curr=leftmo;
