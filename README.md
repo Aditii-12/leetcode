@@ -389,6 +389,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0481-magical-string](https://github.com/Aditii-12/leetcode/tree/main/0481-magical-string/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/Aditii-12/leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0567-permutation-in-string](https://github.com/Aditii-12/leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0606-construct-string-from-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0649-dota2-senate](https://github.com/Aditii-12/leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aditii-12/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/Aditii-12/leetcode/tree/main/0721-accounts-merge/) | Medium |
@@ -1103,6 +1104,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0513-find-bottom-left-tree-value](https://github.com/Aditii-12/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Aditii-12/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0547-number-of-provinces](https://github.com/Aditii-12/leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0606-construct-string-from-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Aditii-12/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Aditii-12/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -1286,6 +1288,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0508-most-frequent-subtree-sum](https://github.com/Aditii-12/leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Aditii-12/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Aditii-12/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0606-construct-string-from-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Aditii-12/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Aditii-12/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -1342,6 +1345,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0508-most-frequent-subtree-sum](https://github.com/Aditii-12/leetcode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/Aditii-12/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/Aditii-12/leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
+| [0606-construct-string-from-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0606-construct-string-from-binary-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Aditii-12/leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Aditii-12/leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
