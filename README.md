@@ -1138,6 +1138,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1325-delete-leaves-with-a-given-value](https://github.com/Aditii-12/leetcode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Aditii-12/leetcode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Aditii-12/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
@@ -1196,6 +1197,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1302-deepest-leaves-sum](https://github.com/Aditii-12/leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Aditii-12/leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aditii-12/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Aditii-12/leetcode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1462-course-schedule-iv](https://github.com/Aditii-12/leetcode/tree/main/1462-course-schedule-iv/) | Medium |
@@ -1312,6 +1314,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1325-delete-leaves-with-a-given-value](https://github.com/Aditii-12/leetcode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Aditii-12/leetcode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Aditii-12/leetcode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
