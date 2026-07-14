@@ -11,12 +11,12 @@
  */
 class Solution {
 public:
-    bool dfs(TreeNode* root,long long low,long long high){
+    bool func(TreeNode* root, int low,int high){
         if(!root) return 1;
-        if(root->val>=high || root->val<=low) return 0;
-        return dfs(root->left,low,root->val) && dfs(root->right,root->val,high);
+        if(root->val<=low || root->val>=high) return 0;
+        return func(root->left,low,root->val) && func(root->right,root->val,high);
     }
     bool isValidBST(TreeNode* root) {
-        return dfs(root,LONG_MIN,LONG_MAX);
+        return func(root,INT_MIN,INT_MAX);
     }
 };
