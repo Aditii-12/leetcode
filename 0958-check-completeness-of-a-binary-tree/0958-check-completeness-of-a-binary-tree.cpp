@@ -14,17 +14,22 @@ public:
     bool isCompleteTree(TreeNode* root) {
         queue<TreeNode*>q;
         q.push(root);
-        bool fl=0;
+        bool f=0;
         while(!q.empty()){
             auto node=q.front();
             q.pop();
-            if(node==NULL) fl=1;
-            else{
-                if(fl==1) return 0;
-                q.push(node->left);
-                q.push(node->right);
+            if(node==NULL){
+                f=1;
+                continue;
             }
+            else{
+                if(f==1) return 0;
+            }
+            q.push(node->left);
+            q.push(node->right);
         }
         return 1;
     }
 };
+
+
