@@ -11,8 +11,10 @@
  */
 class Solution {
 public:
-    TreeNode* func(TreeNode* root){
-        while(root->left) root=root->left;
+    TreeNode* succe(TreeNode* root){
+        while(root->left){
+            root=root->left;
+        }
         return root;
     }
     TreeNode* dfs(TreeNode* root,int key){
@@ -24,11 +26,11 @@ public:
             root->right=dfs(root->right,key);
         }
         else{
-            if(!root->left && !root->right) return NULL; //leaf node
-            if(!root->left) return root->right; //only 1 child exists
+            if(!root->left && !root->right) return NULL;
+            if(!root->left) return root->right;
             if(!root->right) return root->left;
             else{
-                TreeNode* succ=func(root->right);
+                TreeNode* succ=succe(root->right);
                 root->val=succ->val;
                 root->right=deleteNode(root->right,succ->val);
             }
