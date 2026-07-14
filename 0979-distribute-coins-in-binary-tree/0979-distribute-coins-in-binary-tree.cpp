@@ -14,11 +14,11 @@ public:
     int ans=0;
     int dfs(TreeNode* root){
         if(!root) return 0;
-        int left=dfs(root->left);
-        int right=dfs(root->right);
-        ans+=abs(left);
-        ans+=abs(right);
-        return left+right+root->val-1;
+        int l=dfs(root->left);
+        int r=dfs(root->right);
+        ans+=abs(l);
+        ans+=abs(r);
+        return root->val+l+r-1;
     }
     int distributeCoins(TreeNode* root) {
         dfs(root);
