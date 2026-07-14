@@ -145,6 +145,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1110-delete-nodes-and-return-forest](https://github.com/Aditii-12/leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Aditii-12/leetcode/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Aditii-12/leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
+| [1162-as-far-from-land-as-possible](https://github.com/Aditii-12/leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Aditii-12/leetcode/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Aditii-12/leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/Aditii-12/leetcode/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
@@ -344,6 +345,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0861-score-after-flipping-matrix](https://github.com/Aditii-12/leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0934-shortest-bridge](https://github.com/Aditii-12/leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [1034-coloring-a-border](https://github.com/Aditii-12/leetcode/tree/main/1034-coloring-a-border/) | Medium |
+| [1162-as-far-from-land-as-possible](https://github.com/Aditii-12/leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Aditii-12/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Aditii-12/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Aditii-12/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -475,6 +477,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Aditii-12/leetcode/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditii-12/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Aditii-12/leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
+| [1162-as-far-from-land-as-possible](https://github.com/Aditii-12/leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Aditii-12/leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1191-k-concatenation-maximum-sum](https://github.com/Aditii-12/leetcode/tree/main/1191-k-concatenation-maximum-sum/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Aditii-12/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -1186,6 +1189,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1034-coloring-a-border](https://github.com/Aditii-12/leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Aditii-12/leetcode/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
+| [1162-as-far-from-land-as-possible](https://github.com/Aditii-12/leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1202-smallest-string-with-swaps](https://github.com/Aditii-12/leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Aditii-12/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Aditii-12/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
