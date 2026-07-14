@@ -11,19 +11,21 @@
  */
 class Solution {
 public:
-    int path(TreeNode* root,long long target){
-        if(!root) return 0;
-        int ans=0;
-        if(root->val==target) ans++;
-        ans+=path(root->left,target-root->val);
-        ans+=path(root->right,target-root->val);
+int ans=0;
+    void dfs(TreeNode* root,long long tar){
+        if(!root) return;
+        if(root->val==tar) ans++;
+        dfs(root->left,tar-root->val);
+        dfs(root->right,tar-root->val);
+    }
+    void func(TreeNode* root,long long tar){
+        if(!root) return;
+        dfs(root,tar);
+        func(root->left,tar);
+        func(root->right,tar);
+    }
+    int pathSum(TreeNode* root, int tar) {
+        func(root,tar);
         return ans;
-    }
-    int start(TreeNode* root,long long target){
-        if(!root) return 0;
-        return path(root,target)+start(root->left,target)+start(root->right,target);
-    }
-    int pathSum(TreeNode* root, int targetsum) {
-        return start(root,targetsum);
     }
 };
