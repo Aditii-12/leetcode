@@ -6,14 +6,12 @@ public:
         int sum=0;
         mpp[0]=-1;
         for(int i=0;i<n;i++){
-            sum+=nums[i]; //prefix sum
-            int t=sum%k;
-            if(mpp.find(t)!=mpp.end()){
-                if(i-mpp[t]>=2) return 1;
+            sum+=nums[i];
+            int temp=sum%k;
+            if(mpp.find(temp)!=mpp.end()){
+                if(i-mpp[temp]>=2) return 1;
             }
-            else{
-                mpp[t]=i;
-            }
+            else mpp[temp]=i;
         }
         return 0;
     }
