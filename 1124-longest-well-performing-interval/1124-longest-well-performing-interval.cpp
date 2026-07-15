@@ -4,11 +4,11 @@ public:
         int n=hours.size();
         int cnt=0;
         unordered_map<int,int>mpp;
-        int ans=0;
         mpp[0]=-1;
+        int ans=0;
         for(int i=0;i<n;i++){
-            if(hours[i]<=8) cnt--;
-            else cnt++;
+            if(hours[i]>8) cnt++;
+            else cnt--;
             if(cnt>0) ans=i+1;
             else{
                 if(mpp.find(cnt-1)!=mpp.end()){
@@ -18,6 +18,5 @@ public:
             if(mpp.find(cnt)==mpp.end()) mpp[cnt]=i;
         }
         return ans;
-
     }
 };
