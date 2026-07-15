@@ -166,6 +166,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Aditii-12/leetcode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aditii-12/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/Aditii-12/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aditii-12/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditii-12/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aditii-12/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aditii-12/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -485,6 +486,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1301-number-of-paths-with-max-score](https://github.com/Aditii-12/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aditii-12/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aditii-12/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aditii-12/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aditii-12/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Aditii-12/leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
@@ -621,6 +623,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1208-get-equal-substrings-within-budget](https://github.com/Aditii-12/leetcode/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditii-12/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditii-12/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aditii-12/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Aditii-12/leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Aditii-12/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1915-number-of-wonderful-substrings](https://github.com/Aditii-12/leetcode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
@@ -895,6 +898,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0973-k-closest-points-to-origin](https://github.com/Aditii-12/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditii-12/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Aditii-12/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aditii-12/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aditii-12/leetcode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1622-fancy-sequence](https://github.com/Aditii-12/leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1627-graph-connectivity-with-threshold](https://github.com/Aditii-12/leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
