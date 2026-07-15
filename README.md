@@ -214,6 +214,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Aditii-12/leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Aditii-12/leetcode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Aditii-12/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2364-count-number-of-bad-pairs](https://github.com/Aditii-12/leetcode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Aditii-12/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Aditii-12/leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2488-count-subarrays-with-median-k](https://github.com/Aditii-12/leetcode/tree/main/2488-count-subarrays-with-median-k/) | Hard |
@@ -580,6 +581,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2262-total-appeal-of-a-string](https://github.com/Aditii-12/leetcode/tree/main/2262-total-appeal-of-a-string/) | Hard |
 | [2336-smallest-number-in-infinite-set](https://github.com/Aditii-12/leetcode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Aditii-12/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2364-count-number-of-bad-pairs](https://github.com/Aditii-12/leetcode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Aditii-12/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2488-count-subarrays-with-median-k](https://github.com/Aditii-12/leetcode/tree/main/2488-count-subarrays-with-median-k/) | Hard |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Aditii-12/leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
@@ -840,6 +842,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Aditii-12/leetcode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Aditii-12/leetcode/tree/main/1775-equal-sum-arrays-with-minimum-number-of-operations/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/Aditii-12/leetcode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
+| [2364-count-number-of-bad-pairs](https://github.com/Aditii-12/leetcode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditii-12/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Aditii-12/leetcode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3913-sort-vowels-by-frequency](https://github.com/Aditii-12/leetcode/tree/main/3913-sort-vowels-by-frequency/) | Medium |
@@ -912,6 +915,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditii-12/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Aditii-12/leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aditii-12/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
+| [2364-count-number-of-bad-pairs](https://github.com/Aditii-12/leetcode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Aditii-12/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditii-12/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditii-12/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
