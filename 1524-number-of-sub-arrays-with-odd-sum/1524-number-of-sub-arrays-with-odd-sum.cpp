@@ -1,24 +1,24 @@
 class Solution {
 public:
+    const int MOD=1e9+7;
     int numOfSubarrays(vector<int>& arr) {
-        const int MOD=1e9+7;
-        int sum=0;
         int n=arr.size();
+        int odd=0;
+        int even=1;
+        int sum=0;
         int ans=0;
-        int even=0; //cnt of even sums abi tk
-        int odd=0; //cnt of odd sums abi tk
-        even+=1; //empty array sum=even
-        for(int i=0;i<n;i++){
-            sum+=arr[i];
+        for(auto it:arr){
+            sum+=it;
             if(sum%2==0){
-                ans=(ans+odd)%MOD;
+                ans+=odd;
                 even++;
             }
-            else{
-                ans=(ans+even)%MOD;
+            else {
+                ans+=even;
                 odd++;
             }
+            ans%=MOD;
         }
-        return ans%MOD;
+        return ans;
     }
 };
