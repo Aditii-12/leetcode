@@ -1,25 +1,17 @@
 class Solution {
 public:
     int numberOfSubarrays(vector<int>& nums, int k) {
-        int n=nums.size();
-        int cnt1=0; //cnt of odd numbers
-        int l=0,r=0;
+        unordered_map<int,int>mpp;
+        int odd=0;
         int ans=0;
-        int cnte=0; //cnt of continous even number in start to add in cnt
-        while(r<n){
-            if(nums[r]%2==1) cnt1++;
-            while(l<r&&(cnt1>k||nums[l]%2==0)){
-                if(nums[l]%2==0) cnte++;
-                else cnte=0;
-                if(nums[l]%2==1) cnt1--;
-                l++;
+        mpp[0]=1;
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]%2==1) odd++;
+            if(mpp.find(odd-k)!=mpp.end()){
+                ans+=mpp[odd-k];
             }
-            if(cnt1==k){
-                ans+=cnte+1;
-            }
-            r++;
+            mpp[odd]++;
         }
         return ans;
-
     }
 };
