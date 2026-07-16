@@ -259,6 +259,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aditii-12/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aditii-12/leetcode/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Aditii-12/leetcode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditii-12/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aditii-12/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3895-count-digit-appearances](https://github.com/Aditii-12/leetcode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Aditii-12/leetcode/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
@@ -476,6 +477,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Aditii-12/leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditii-12/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Aditii-12/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditii-12/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -697,6 +699,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3643-flip-square-submatrix-vertically](https://github.com/Aditii-12/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Aditii-12/leetcode/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aditii-12/leetcode/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditii-12/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Aditii-12/leetcode/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -758,6 +761,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aditii-12/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Aditii-12/leetcode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3608-minimum-time-for-k-connected-components](https://github.com/Aditii-12/leetcode/tree/main/3608-minimum-time-for-k-connected-components/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditii-12/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Aditii-12/leetcode/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 | [3913-sort-vowels-by-frequency](https://github.com/Aditii-12/leetcode/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aditii-12/leetcode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
@@ -934,6 +938,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aditii-12/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Aditii-12/leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditii-12/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3871-count-commas-in-range-ii](https://github.com/Aditii-12/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aditii-12/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3895-count-digit-appearances](https://github.com/Aditii-12/leetcode/tree/main/3895-count-digit-appearances/) | Medium |
@@ -1434,6 +1439,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Aditii-12/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aditii-12/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aditii-12/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditii-12/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Aditii-12/leetcode/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
