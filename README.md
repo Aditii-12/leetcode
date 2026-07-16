@@ -223,6 +223,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Aditii-12/leetcode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Aditii-12/leetcode/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Aditii-12/leetcode/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Aditii-12/leetcode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Aditii-12/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2592-maximize-greatness-of-an-array](https://github.com/Aditii-12/leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2594-minimum-time-to-repair-cars](https://github.com/Aditii-12/leetcode/tree/main/2594-minimum-time-to-repair-cars/) | Medium |
@@ -366,6 +367,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditii-12/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Aditii-12/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Aditii-12/leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Aditii-12/leetcode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Aditii-12/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Aditii-12/leetcode/tree/main/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditii-12/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -742,6 +744,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Aditii-12/leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Aditii-12/leetcode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Aditii-12/leetcode/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Aditii-12/leetcode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/Aditii-12/leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Aditii-12/leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Aditii-12/leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
