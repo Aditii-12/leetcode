@@ -216,6 +216,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Aditii-12/leetcode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Aditii-12/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/Aditii-12/leetcode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditii-12/leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Aditii-12/leetcode/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Aditii-12/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Aditii-12/leetcode/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
@@ -325,6 +326,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Aditii-12/leetcode/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Aditii-12/leetcode/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [2285-maximum-total-importance-of-roads](https://github.com/Aditii-12/leetcode/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditii-12/leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Aditii-12/leetcode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Aditii-12/leetcode/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Aditii-12/leetcode/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -691,6 +693,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aditii-12/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aditii-12/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Aditii-12/leetcode/tree/main/2337-move-pieces-to-obtain-a-string/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditii-12/leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Aditii-12/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Aditii-12/leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/Aditii-12/leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
@@ -750,6 +753,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditii-12/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Aditii-12/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2285-maximum-total-importance-of-roads](https://github.com/Aditii-12/leetcode/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditii-12/leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Aditii-12/leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Aditii-12/leetcode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Aditii-12/leetcode/tree/main/2542-maximum-subsequence-score/) | Medium |
