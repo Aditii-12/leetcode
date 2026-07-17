@@ -134,6 +134,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0969-pancake-sorting](https://github.com/Aditii-12/leetcode/tree/main/0969-pancake-sorting/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Aditii-12/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0986-interval-list-intersections](https://github.com/Aditii-12/leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Aditii-12/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aditii-12/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -675,6 +676,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0826-most-profit-assigning-work](https://github.com/Aditii-12/leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/Aditii-12/leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0969-pancake-sorting](https://github.com/Aditii-12/leetcode/tree/main/0969-pancake-sorting/) | Medium |
+| [0986-interval-list-intersections](https://github.com/Aditii-12/leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Aditii-12/leetcode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aditii-12/leetcode/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aditii-12/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -1458,4 +1460,8 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/Aditii-12/leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/Aditii-12/leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
