@@ -126,6 +126,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0853-car-fleet](https://github.com/Aditii-12/leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Aditii-12/leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aditii-12/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0893-groups-of-special-equivalent-strings](https://github.com/Aditii-12/leetcode/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Aditii-12/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditii-12/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0934-shortest-bridge](https://github.com/Aditii-12/leetcode/tree/main/0934-shortest-bridge/) | Medium |
@@ -417,6 +418,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0809-expressive-words](https://github.com/Aditii-12/leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Aditii-12/leetcode/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0839-similar-string-groups](https://github.com/Aditii-12/leetcode/tree/main/0839-similar-string-groups/) | Hard |
+| [0893-groups-of-special-equivalent-strings](https://github.com/Aditii-12/leetcode/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditii-12/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0984-string-without-aaa-or-bbb](https://github.com/Aditii-12/leetcode/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
@@ -561,6 +563,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Aditii-12/leetcode/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0839-similar-string-groups](https://github.com/Aditii-12/leetcode/tree/main/0839-similar-string-groups/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0893-groups-of-special-equivalent-strings](https://github.com/Aditii-12/leetcode/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Aditii-12/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/Aditii-12/leetcode/tree/main/1079-letter-tile-possibilities/) | Medium |
@@ -729,6 +732,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0825-friends-of-appropriate-ages](https://github.com/Aditii-12/leetcode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Aditii-12/leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0853-car-fleet](https://github.com/Aditii-12/leetcode/tree/main/0853-car-fleet/) | Medium |
+| [0893-groups-of-special-equivalent-strings](https://github.com/Aditii-12/leetcode/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Aditii-12/leetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0969-pancake-sorting](https://github.com/Aditii-12/leetcode/tree/main/0969-pancake-sorting/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Aditii-12/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
