@@ -202,6 +202,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Aditii-12/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Aditii-12/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aditii-12/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aditii-12/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditii-12/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aditii-12/leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
@@ -942,6 +943,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1627-graph-connectivity-with-threshold](https://github.com/Aditii-12/leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1753-maximum-score-from-removing-stones](https://github.com/Aditii-12/leetcode/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Aditii-12/leetcode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aditii-12/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditii-12/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Aditii-12/leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aditii-12/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
@@ -1453,6 +1455,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1627-graph-connectivity-with-threshold](https://github.com/Aditii-12/leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aditii-12/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Aditii-12/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aditii-12/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aditii-12/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
