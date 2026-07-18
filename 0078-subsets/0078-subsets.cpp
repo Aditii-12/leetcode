@@ -1,18 +1,21 @@
 class Solution {
 public:
-    vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>>ans;
-        int n=(1<<nums.size());
-        for(int i=0;i<n;i++){ //total subsets 
-            vector<int>temp;
-            for(int j=0;j<nums.size();j++)
-            { //to check if jth bit is set or not
-            if(i & (1<<j)) 
-                temp.push_back(nums[j]);
-            }
-            ans.push_back(temp);
-
+    vector<vector<int>>ans;
+    vector<int>path;
+    int n;
+    void func(int idx,vector<int>& nums){
+        if(idx==n){
+            ans.push_back(path);
+            return;
         }
+        path.push_back(nums[idx]);
+        func(idx+1,nums);
+        path.pop_back();
+        func(idx+1,nums);
+    }
+    vector<vector<int>> subsets(vector<int>& nums) {
+        n=nums.size();
+        func(0,nums);
         return ans;
     }
 };
