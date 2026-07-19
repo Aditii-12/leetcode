@@ -1,17 +1,17 @@
 class Solution {
 public:
     string smallestSubsequence(string s) {
-        int n=s.size();
-        vector<int>last(26);
-        vector<bool>vis(26,0);
+        int n=s.length();
+        vector<int>l(26);
         for(int i=0;i<n;i++){
-            last[s[i]-'a']=i;
+            l[s[i]-'a']=i;
         }
+        vector<bool>vis(26,0);
         stack<char>st;
-        for(int i=0;i<s.size();i++){
+        for(int i=0;i<n;i++){
             char ch=s[i];
             if(vis[ch-'a']) continue;
-            while(!st.empty() && st.top()>s[i] && last[st.top()-'a']>i){
+            while(!st.empty() && st.top()>s[i] && l[st.top()-'a']>i){
                 vis[st.top()-'a']=0;
                 st.pop();
             }
@@ -25,5 +25,6 @@ public:
         }
         reverse(ans.begin(),ans.end());
         return ans;
+
     }
 };
