@@ -461,6 +461,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2938-separate-black-and-white-balls](https://github.com/Aditii-12/leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aditii-12/leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Aditii-12/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Aditii-12/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Aditii-12/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Aditii-12/leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
@@ -1132,6 +1133,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Aditii-12/leetcode/tree/main/1291-sequential-digits/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Aditii-12/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Aditii-12/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aditii-12/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Aditii-12/leetcode/tree/main/3722-lexicographically-smallest-string-after-reverse/) | Medium |
