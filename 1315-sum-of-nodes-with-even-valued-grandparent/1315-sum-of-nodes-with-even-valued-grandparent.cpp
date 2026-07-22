@@ -12,10 +12,12 @@
 class Solution {
 public:
     int sum=0;
-    void dfs(TreeNode* root, int par, int grandp){
+    void dfs(TreeNode* root,int par,int grandp){
         if(!root) return;
-        if(grandp%2==0) sum+=root->val;
-        dfs(root->left, root->val,par);
+        if(grandp%2==0){
+            sum+=root->val;
+        }
+        dfs(root->left,root->val,par);
         dfs(root->right,root->val,par);
     }
     int sumEvenGrandparent(TreeNode* root) {
