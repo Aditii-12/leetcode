@@ -1,21 +1,21 @@
 class Solution {
 public:
-    int carFleet(int target, vector<int>& pos, vector<int>& speed) {
+    int carFleet(int tar, vector<int>& pos, vector<int>& sp) {
         int n=pos.size();
-        vector<pair<int,int>>c;
+        vector<pair<int,int>>v;
         for(int i=0;i<n;i++){
-            c.push_back({pos[i],speed[i]});
+            v.push_back({pos[i],sp[i]});
         }
-        sort(c.begin(),c.end());
-        int fleet=0;
-        double lastt=0;
+        sort(v.begin(),v.end());
+        int cnt=0;
+        double last=0;
         for(int i=n-1;i>=0;i--){
-            double currt=(double)(target-c[i].first)/c[i].second;
-            if(currt>lastt){
-                fleet++;
-                lastt=currt;
+            double curr=(double)(tar-v[i].first)/v[i].second;
+            if(curr>last) {
+                cnt++;
+                last=curr;
             }
         }
-        return fleet;
+        return cnt;
     }
 };
