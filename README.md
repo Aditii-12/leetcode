@@ -191,6 +191,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1733-minimum-number-of-people-to-teach](https://github.com/Aditii-12/leetcode/tree/main/1733-minimum-number-of-people-to-teach/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Aditii-12/leetcode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/Aditii-12/leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aditii-12/leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Aditii-12/leetcode/tree/main/1775-equal-sum-arrays-with-minimum-number-of-operations/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditii-12/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditii-12/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -445,6 +446,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Aditii-12/leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1754-largest-merge-of-two-strings](https://github.com/Aditii-12/leetcode/tree/main/1754-largest-merge-of-two-strings/) | Medium |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aditii-12/leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Aditii-12/leetcode/tree/main/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aditii-12/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/Aditii-12/leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
@@ -659,6 +661,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1590-make-sum-divisible-by-p](https://github.com/Aditii-12/leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/Aditii-12/leetcode/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Aditii-12/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aditii-12/leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1915-number-of-wonderful-substrings](https://github.com/Aditii-12/leetcode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/Aditii-12/leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2488-count-subarrays-with-median-k](https://github.com/Aditii-12/leetcode/tree/main/2488-count-subarrays-with-median-k/) | Hard |
