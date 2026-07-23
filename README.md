@@ -461,6 +461,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2262-total-appeal-of-a-string](https://github.com/Aditii-12/leetcode/tree/main/2262-total-appeal-of-a-string/) | Hard |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Aditii-12/leetcode/tree/main/2337-move-pieces-to-obtain-a-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Aditii-12/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Aditii-12/leetcode/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Aditii-12/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aditii-12/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/Aditii-12/leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
@@ -666,6 +667,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aditii-12/leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1915-number-of-wonderful-substrings](https://github.com/Aditii-12/leetcode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/Aditii-12/leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Aditii-12/leetcode/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2488-count-subarrays-with-median-k](https://github.com/Aditii-12/leetcode/tree/main/2488-count-subarrays-with-median-k/) | Hard |
 | [2615-sum-of-distances](https://github.com/Aditii-12/leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Aditii-12/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
