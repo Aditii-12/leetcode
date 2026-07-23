@@ -1,30 +1,25 @@
 class Solution {
 public:
-    int bestClosingTime(string customers) {
-        int n= customers.size();
+    int bestClosingTime(string cust) {
+        int n=cust.size();
         int tot=0;
-        for (int i=0;i<n;i++) {
-            if (customers[i] == 'Y') {
-                tot++;
-            }
+        for(auto it:cust){
+            if(it=='Y') tot++;
         }
-        int mini = tot;
-        int ans = 0;
-
-        for (int i=0;i<n;i++) {
-            char ch = customers[i];
-            if (ch == 'Y') {
-                tot--;
-            } else {
-                tot++;
+        int ans=tot;
+        int idx=0;
+        int penalty=0;
+        for(int i=0;i<n;i++){
+            if(ans>penalty+tot){
+                ans=penalty+tot;
+                idx=i;
             }
-
-            if (tot < mini) {
-                ans= i + 1;
-                mini =tot;
-            }
+            if(cust[i]=='N') penalty++;
+            else tot--;
         }
-
-        return ans;
+        if(ans>penalty){
+            idx=n;
+        }
+        return idx;
     }
 };
