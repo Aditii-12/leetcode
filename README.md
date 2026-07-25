@@ -70,6 +70,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0040-combination-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Aditii-12/leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Aditii-12/leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/Aditii-12/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Aditii-12/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Aditii-12/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Aditii-12/leetcode/tree/main/0075-sort-colors/) | Medium |
@@ -404,6 +405,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditii-12/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Aditii-12/leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditii-12/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0049-group-anagrams](https://github.com/Aditii-12/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aditii-12/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Aditii-12/leetcode/tree/main/0079-word-search/) | Medium |
 | [0299-bulls-and-cows](https://github.com/Aditii-12/leetcode/tree/main/0299-bulls-and-cows/) | Medium |
@@ -556,6 +558,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0001-two-sum](https://github.com/Aditii-12/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditii-12/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditii-12/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0049-group-anagrams](https://github.com/Aditii-12/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aditii-12/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0133-clone-graph](https://github.com/Aditii-12/leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0299-bulls-and-cows](https://github.com/Aditii-12/leetcode/tree/main/0299-bulls-and-cows/) | Medium |
@@ -739,6 +742,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0015-3sum](https://github.com/Aditii-12/leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Aditii-12/leetcode/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Aditii-12/leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/Aditii-12/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Aditii-12/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditii-12/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Aditii-12/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
