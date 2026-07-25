@@ -79,6 +79,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aditii-12/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/Aditii-12/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditii-12/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Aditii-12/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aditii-12/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0137-single-number-ii](https://github.com/Aditii-12/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Aditii-12/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -560,6 +561,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditii-12/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/Aditii-12/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aditii-12/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/Aditii-12/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/Aditii-12/leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0299-bulls-and-cows](https://github.com/Aditii-12/leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aditii-12/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -994,6 +996,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aditii-12/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aditii-12/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Aditii-12/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0399-evaluate-division](https://github.com/Aditii-12/leetcode/tree/main/0399-evaluate-division/) | Medium |
