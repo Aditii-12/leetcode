@@ -109,6 +109,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0525-contiguous-array](https://github.com/Aditii-12/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aditii-12/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aditii-12/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aditii-12/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aditii-12/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0654-maximum-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Aditii-12/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -752,6 +753,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aditii-12/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Aditii-12/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0475-heaters](https://github.com/Aditii-12/leetcode/tree/main/0475-heaters/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aditii-12/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aditii-12/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/Aditii-12/leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Aditii-12/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -960,6 +962,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0477-total-hamming-distance](https://github.com/Aditii-12/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Aditii-12/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/Aditii-12/leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aditii-12/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0670-maximum-swap](https://github.com/Aditii-12/leetcode/tree/main/0670-maximum-swap/) | Medium |
 | [0788-rotated-digits](https://github.com/Aditii-12/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Aditii-12/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
