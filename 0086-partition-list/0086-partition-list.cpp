@@ -11,10 +11,10 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-        ListNode* smalldum=new ListNode(0);
-        ListNode* bigdum=new ListNode(0);
-        ListNode* small=smalldum;
-        ListNode* big=bigdum;
+        ListNode* smalld=new ListNode(0);
+        ListNode* bigd=new ListNode(0);
+        ListNode* small=smalld;
+        ListNode* big=bigd;
         ListNode* curr=head;
         while(curr){
             if(curr->val<x){
@@ -28,7 +28,7 @@ public:
             curr=curr->next;
         }
         big->next=nullptr;
-        small->next=bigdum->next;
-        return smalldum->next;
+        small->next=bigd->next;
+        return smalld->next;
     }
 };
