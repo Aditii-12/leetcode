@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-    ListNode* reversefunc(ListNode* head){
+    ListNode* func(ListNode* head){
         ListNode* prev=NULL;
         ListNode* curr=head;
         while(curr){
@@ -28,9 +28,9 @@ public:
             slow=slow->next;
             fast=fast->next->next;
         }
-        ListNode* sec=reversefunc(slow);
         int ans=0;
         ListNode* fir=head;
+        ListNode* sec=func(slow);
         while(sec){
             ans=max(ans,fir->val+sec->val);
             fir=fir->next;
