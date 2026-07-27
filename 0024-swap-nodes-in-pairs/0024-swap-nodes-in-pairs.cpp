@@ -18,8 +18,8 @@ public:
             ListNode* a=prev->next;
             ListNode* b=a->next;
             a->next=b->next;
-            b->next=a;
             prev->next=b;
+            b->next=a;
             prev=a;
         }
         return dummy->next;
