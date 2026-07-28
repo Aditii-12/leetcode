@@ -17,18 +17,20 @@ public:
     };
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         priority_queue<ListNode*,vector<ListNode*>,cmp>pq;
-        for(auto node:lists){
-            if(node) pq.push(node);
+        for(auto it:lists){
+            if(it) pq.push(it);
         }
-        ListNode* dummy=new ListNode(0);
-        ListNode* tail=dummy;
+        ListNode* dumm=new ListNode(0);
+        ListNode* tail=dumm;
         while(!pq.empty()){
             auto curr=pq.top();
             pq.pop();
             tail->next=curr;
+            if(curr->next){
+                pq.push(curr->next);
+            }
             tail=tail->next;
-            if(curr->next) pq.push(curr->next);
         }
-        return dummy->next;
+        return dumm->next;
     }
 };
