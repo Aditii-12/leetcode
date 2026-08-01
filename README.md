@@ -103,6 +103,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0419-battleships-in-a-board](https://github.com/Aditii-12/leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0475-heaters](https://github.com/Aditii-12/leetcode/tree/main/0475-heaters/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Aditii-12/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
+| [0486-predict-the-winner](https://github.com/Aditii-12/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aditii-12/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Aditii-12/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Aditii-12/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -493,6 +494,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0024-swap-nodes-in-pairs](https://github.com/Aditii-12/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0060-permutation-sequence](https://github.com/Aditii-12/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0143-reorder-list](https://github.com/Aditii-12/leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0486-predict-the-winner](https://github.com/Aditii-12/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aditii-12/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Simulation
@@ -517,6 +519,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditii-12/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Aditii-12/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Aditii-12/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0486-predict-the-winner](https://github.com/Aditii-12/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/Aditii-12/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Aditii-12/leetcode/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aditii-12/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -975,6 +978,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/Aditii-12/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0477-total-hamming-distance](https://github.com/Aditii-12/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
+| [0486-predict-the-winner](https://github.com/Aditii-12/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Aditii-12/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/Aditii-12/leetcode/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditii-12/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -1520,6 +1524,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Aditii-12/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aditii-12/leetcode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
