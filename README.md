@@ -1378,6 +1378,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aditii-12/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aditii-12/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Aditii-12/leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/Aditii-12/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aditii-12/leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Aditii-12/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
