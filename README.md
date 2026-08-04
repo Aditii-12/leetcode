@@ -419,6 +419,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0299-bulls-and-cows](https://github.com/Aditii-12/leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Aditii-12/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/Aditii-12/leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
+| [0394-decode-string](https://github.com/Aditii-12/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0399-evaluate-division](https://github.com/Aditii-12/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0402-remove-k-digits](https://github.com/Aditii-12/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Aditii-12/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -496,6 +497,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0024-swap-nodes-in-pairs](https://github.com/Aditii-12/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0060-permutation-sequence](https://github.com/Aditii-12/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0143-reorder-list](https://github.com/Aditii-12/leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0394-decode-string](https://github.com/Aditii-12/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/Aditii-12/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aditii-12/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -1138,6 +1140,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0143-reorder-list](https://github.com/Aditii-12/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Aditii-12/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Aditii-12/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0394-decode-string](https://github.com/Aditii-12/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/Aditii-12/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Aditii-12/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Aditii-12/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
