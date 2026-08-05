@@ -1210,6 +1210,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [0079-word-search](https://github.com/Aditii-12/leetcode/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Aditii-12/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditii-12/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aditii-12/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
@@ -1286,6 +1287,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aditii-12/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aditii-12/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aditii-12/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
@@ -1407,6 +1409,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditii-12/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aditii-12/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditii-12/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -1468,6 +1471,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditii-12/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aditii-12/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditii-12/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
