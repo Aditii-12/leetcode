@@ -23,7 +23,6 @@ public:
             dfs(root->left,0,len+1);
             dfs(root->right,1,1);
         }
-
     }
     int longestZigZag(TreeNode* root) {
         dfs(root->left,0,1);
