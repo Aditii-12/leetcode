@@ -2,14 +2,14 @@ class Solution {
 public:
     vector<vector<int>>ans;
     vector<int>path;
-    void func(int i,int k,int n){
-        if(n==0 && path.size()==k) {
+    void func(int idx,int k,int n){
+        if(path.size()==k && n==0) {
             ans.push_back(path);
             return;
         }
-        for(int j=i;j<=9;j++){
-            path.push_back(j);
-            func(j+1,k,n-j);
+        for(int i=idx;i<=9;i++){
+            path.push_back(i);
+            func(i+1,k,n-i);
             path.pop_back();
         }
     }
