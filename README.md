@@ -357,6 +357,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Aditii-12/leetcode/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditii-12/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aditii-12/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Aditii-12/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Aditii-12/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aditii-12/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aditii-12/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -480,6 +481,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2938-separate-black-and-white-balls](https://github.com/Aditii-12/leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditii-12/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aditii-12/leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Aditii-12/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Aditii-12/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aditii-12/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aditii-12/leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -673,6 +675,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1079-letter-tile-possibilities](https://github.com/Aditii-12/leetcode/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aditii-12/leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Aditii-12/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1020,6 +1023,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3312-sorted-gcd-pair-queries](https://github.com/Aditii-12/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aditii-12/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aditii-12/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Aditii-12/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aditii-12/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aditii-12/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aditii-12/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -1548,6 +1552,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Aditii-12/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aditii-12/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aditii-12/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Aditii-12/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aditii-12/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditii-12/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Aditii-12/leetcode/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
