@@ -14,7 +14,7 @@ public:
         int n=piles.size();
         int l=1;
         int hi=*max_element(piles.begin(),piles.end());
-        int ans=0;
+        int ans=hi;
         while(l<=hi){
             int m=l+(hi-l)/2;
             if(func(m,piles,h)){
