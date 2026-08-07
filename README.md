@@ -522,6 +522,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0053-maximum-subarray](https://github.com/Aditii-12/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditii-12/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Aditii-12/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0338-counting-bits](https://github.com/Aditii-12/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Aditii-12/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/Aditii-12/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/Aditii-12/leetcode/tree/main/0788-rotated-digits/) | Medium |
@@ -893,6 +894,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0260-single-number-iii](https://github.com/Aditii-12/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Aditii-12/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/Aditii-12/leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
+| [0338-counting-bits](https://github.com/Aditii-12/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0477-total-hamming-distance](https://github.com/Aditii-12/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Aditii-12/leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Aditii-12/leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
