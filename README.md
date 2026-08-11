@@ -260,6 +260,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditii-12/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Aditii-12/leetcode/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditii-12/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditii-12/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Aditii-12/leetcode/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Aditii-12/leetcode/tree/main/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditii-12/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -652,6 +653,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aditii-12/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Aditii-12/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditii-12/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditii-12/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditii-12/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aditii-12/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aditii-12/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -835,6 +837,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2784-check-if-array-is-good](https://github.com/Aditii-12/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2895-minimum-processing-time](https://github.com/Aditii-12/leetcode/tree/main/2895-minimum-processing-time/) | Medium |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Aditii-12/leetcode/tree/main/2952-minimum-number-of-coins-to-be-added/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditii-12/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditii-12/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditii-12/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aditii-12/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
