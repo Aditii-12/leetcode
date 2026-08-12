@@ -2,8 +2,8 @@ class Solution {
 public:
     int halveArray(vector<int>& nums) {
         int n=nums.size();
-        priority_queue<int>pq;
-        int sum=0;
+        priority_queue<double>pq;
+        double sum=0;
         for(int i=0;i<n;i++){
             sum+=nums[i];
             pq.push(nums[i]);
@@ -19,6 +19,6 @@ public:
             pq.push(t);
             k++;
         }
-        return -1;
+        return k;
     }
 };
