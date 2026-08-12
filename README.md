@@ -347,6 +347,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aditii-12/leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aditii-12/leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aditii-12/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Aditii-12/leetcode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Aditii-12/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/Aditii-12/leetcode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Aditii-12/leetcode/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
@@ -478,6 +479,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aditii-12/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Aditii-12/leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Aditii-12/leetcode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/Aditii-12/leetcode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2262-total-appeal-of-a-string](https://github.com/Aditii-12/leetcode/tree/main/2262-total-appeal-of-a-string/) | Hard |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Aditii-12/leetcode/tree/main/2337-move-pieces-to-obtain-a-string/) | Medium |
@@ -1196,6 +1198,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aditii-12/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Aditii-12/leetcode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aditii-12/leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Aditii-12/leetcode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aditii-12/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Aditii-12/leetcode/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Aditii-12/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -1646,4 +1649,8 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Aditii-12/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Aditii-12/leetcode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 <!---LeetCode Topics End-->
