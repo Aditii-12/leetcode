@@ -1,15 +1,16 @@
 class Solution {
 public:
     int halveArray(vector<int>& nums) {
-        priority_queue<double>pq;
-        double sum=0;
-        for(auto it:nums){
-            pq.push(it);
-            sum+=it;
+        int n=nums.size();
+        priority_queue<int>pq;
+        int sum=0;
+        for(int i=0;i<n;i++){
+            sum+=nums[i];
+            pq.push(nums[i]);
         }
         double temp=sum;
         int k=0;
-        while(1){
+        while(true){
             if(sum/2>=temp) return k;
             double t=pq.top();
             pq.pop();
@@ -18,6 +19,6 @@ public:
             pq.push(t);
             k++;
         }
-        return k;
+        return -1;
     }
 };
