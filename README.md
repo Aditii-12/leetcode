@@ -491,6 +491,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aditii-12/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/Aditii-12/leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditii-12/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditii-12/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aditii-12/leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aditii-12/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Aditii-12/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -589,6 +590,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Aditii-12/leetcode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Aditii-12/leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditii-12/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditii-12/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -663,6 +665,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditii-12/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditii-12/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditii-12/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditii-12/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aditii-12/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aditii-12/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aditii-12/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
