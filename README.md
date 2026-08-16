@@ -218,6 +218,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aditii-12/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditii-12/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2029-stone-game-ix](https://github.com/Aditii-12/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditii-12/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aditii-12/leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aditii-12/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -347,6 +348,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Aditii-12/leetcode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Aditii-12/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aditii-12/leetcode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [2029-stone-game-ix](https://github.com/Aditii-12/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aditii-12/leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aditii-12/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Aditii-12/leetcode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
@@ -960,6 +962,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1400-construct-k-palindrome-strings](https://github.com/Aditii-12/leetcode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Aditii-12/leetcode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Aditii-12/leetcode/tree/main/1775-equal-sum-arrays-with-minimum-number-of-operations/) | Medium |
+| [2029-stone-game-ix](https://github.com/Aditii-12/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/Aditii-12/leetcode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/Aditii-12/leetcode/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditii-12/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -1043,6 +1046,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1753-maximum-score-from-removing-stones](https://github.com/Aditii-12/leetcode/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Aditii-12/leetcode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditii-12/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/Aditii-12/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditii-12/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Aditii-12/leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aditii-12/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
@@ -1597,6 +1601,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1406-stone-game-iii](https://github.com/Aditii-12/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Aditii-12/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aditii-12/leetcode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [2029-stone-game-ix](https://github.com/Aditii-12/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1624,12 +1629,14 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1140-stone-game-ii](https://github.com/Aditii-12/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Aditii-12/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Aditii-12/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Aditii-12/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Aditii-12/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Aditii-12/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Aditii-12/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Aditii-12/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1654,6 +1661,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Aditii-12/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Aditii-12/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
