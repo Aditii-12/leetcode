@@ -173,6 +173,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1331-rank-transform-of-an-array](https://github.com/Aditii-12/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/Aditii-12/leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1383-maximum-performance-of-a-team](https://github.com/Aditii-12/leetcode/tree/main/1383-maximum-performance-of-a-team/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/Aditii-12/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/Aditii-12/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditii-12/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Aditii-12/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
@@ -331,6 +332,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Aditii-12/leetcode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Aditii-12/leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1383-maximum-performance-of-a-team](https://github.com/Aditii-12/leetcode/tree/main/1383-maximum-performance-of-a-team/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/Aditii-12/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1400-construct-k-palindrome-strings](https://github.com/Aditii-12/leetcode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1405-longest-happy-string](https://github.com/Aditii-12/leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Aditii-12/leetcode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
@@ -644,6 +646,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1331-rank-transform-of-an-array](https://github.com/Aditii-12/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/Aditii-12/leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditii-12/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/Aditii-12/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1400-construct-k-palindrome-strings](https://github.com/Aditii-12/leetcode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Aditii-12/leetcode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Aditii-12/leetcode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
@@ -938,6 +941,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0861-score-after-flipping-matrix](https://github.com/Aditii-12/leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Aditii-12/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Aditii-12/leetcode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/Aditii-12/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Aditii-12/leetcode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1915-number-of-wonderful-substrings](https://github.com/Aditii-12/leetcode/tree/main/1915-number-of-wonderful-substrings/) | Medium |
