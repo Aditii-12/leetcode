@@ -383,6 +383,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Aditii-12/leetcode/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aditii-12/leetcode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Aditii-12/leetcode/tree/main/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/) | Medium |
+| [4026-maximum-gap-between-stations](https://github.com/Aditii-12/leetcode/tree/main/4026-maximum-gap-between-stations/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -517,6 +518,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/Aditii-12/leetcode/tree/main/3922-minimum-flips-to-make-binary-string-coherent/) | Medium |
 | [3926-count-valid-word-occurrences](https://github.com/Aditii-12/leetcode/tree/main/3926-count-valid-word-occurrences/) | Medium |
 | [3941-password-strength](https://github.com/Aditii-12/leetcode/tree/main/3941-password-strength/) | Medium |
+| [4026-maximum-gap-between-stations](https://github.com/Aditii-12/leetcode/tree/main/4026-maximum-gap-between-stations/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -799,6 +801,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aditii-12/leetcode/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditii-12/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Aditii-12/leetcode/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
+| [4026-maximum-gap-between-stations](https://github.com/Aditii-12/leetcode/tree/main/4026-maximum-gap-between-stations/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
