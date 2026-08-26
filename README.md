@@ -472,6 +472,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0984-string-without-aaa-or-bbb](https://github.com/Aditii-12/leetcode/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Aditii-12/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Aditii-12/leetcode/tree/main/1061-lexicographically-smallest-equivalent-string/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/Aditii-12/leetcode/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aditii-12/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -1335,6 +1336,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0979-distribute-coins-in-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aditii-12/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1034-coloring-a-border](https://github.com/Aditii-12/leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditii-12/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aditii-12/leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
@@ -1526,6 +1528,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aditii-12/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditii-12/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aditii-12/leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -1588,6 +1591,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Aditii-12/leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Aditii-12/leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Aditii-12/leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aditii-12/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
