@@ -505,6 +505,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2483-minimum-penalty-for-a-shop](https://github.com/Aditii-12/leetcode/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Aditii-12/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aditii-12/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aditii-12/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/Aditii-12/leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditii-12/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditii-12/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -610,6 +611,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aditii-12/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Aditii-12/leetcode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Aditii-12/leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aditii-12/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditii-12/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditii-12/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Hash Table
