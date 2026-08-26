@@ -68,6 +68,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aditii-12/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Aditii-12/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0041-first-missing-positive](https://github.com/Aditii-12/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/Aditii-12/leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Aditii-12/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Aditii-12/leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -620,6 +621,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0001-two-sum](https://github.com/Aditii-12/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditii-12/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditii-12/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0041-first-missing-positive](https://github.com/Aditii-12/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Aditii-12/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aditii-12/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Aditii-12/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
