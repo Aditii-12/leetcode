@@ -302,6 +302,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aditii-12/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3895-count-digit-appearances](https://github.com/Aditii-12/leetcode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Aditii-12/leetcode/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/Aditii-12/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/Aditii-12/leetcode/tree/main/3905-multi-source-flood-fill/) | Medium |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Aditii-12/leetcode/tree/main/3909-compare-sums-of-bitonic-parts/) | Medium |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Aditii-12/leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
@@ -767,6 +768,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aditii-12/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditii-12/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/Aditii-12/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
