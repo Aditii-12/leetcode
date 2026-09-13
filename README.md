@@ -130,6 +130,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0809-expressive-words](https://github.com/Aditii-12/leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/Aditii-12/leetcode/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Aditii-12/leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0835-image-overlap](https://github.com/Aditii-12/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0839-similar-string-groups](https://github.com/Aditii-12/leetcode/tree/main/0839-similar-string-groups/) | Hard |
 | [0851-loud-and-rich](https://github.com/Aditii-12/leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aditii-12/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -407,6 +408,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0419-battleships-in-a-board](https://github.com/Aditii-12/leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0695-max-area-of-island](https://github.com/Aditii-12/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Aditii-12/leetcode/tree/main/0807-max-increase-to-keep-city-skyline/) | Medium |
+| [0835-image-overlap](https://github.com/Aditii-12/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Aditii-12/leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0934-shortest-bridge](https://github.com/Aditii-12/leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [1034-coloring-a-border](https://github.com/Aditii-12/leetcode/tree/main/1034-coloring-a-border/) | Medium |
