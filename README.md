@@ -375,6 +375,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Aditii-12/leetcode/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [2285-maximum-total-importance-of-roads](https://github.com/Aditii-12/leetcode/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditii-12/leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aditii-12/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Aditii-12/leetcode/tree/main/2517-maximum-tastiness-of-candy-basket/) | Medium |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Aditii-12/leetcode/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/Aditii-12/leetcode/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -514,6 +515,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2262-total-appeal-of-a-string](https://github.com/Aditii-12/leetcode/tree/main/2262-total-appeal-of-a-string/) | Hard |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Aditii-12/leetcode/tree/main/2337-move-pieces-to-obtain-a-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Aditii-12/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aditii-12/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Aditii-12/leetcode/tree/main/2483-minimum-penalty-for-a-shop/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Aditii-12/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aditii-12/leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -599,6 +601,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aditii-12/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Aditii-12/leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2262-total-appeal-of-a-string](https://github.com/Aditii-12/leetcode/tree/main/2262-total-appeal-of-a-string/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aditii-12/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Aditii-12/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Aditii-12/leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aditii-12/leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -822,6 +825,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Aditii-12/leetcode/tree/main/2337-move-pieces-to-obtain-a-string/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aditii-12/leetcode/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Aditii-12/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aditii-12/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Aditii-12/leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/Aditii-12/leetcode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/Aditii-12/leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
