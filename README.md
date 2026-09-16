@@ -597,6 +597,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1510-stone-game-iv](https://github.com/Aditii-12/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aditii-12/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aditii-12/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditii-12/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Aditii-12/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aditii-12/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Aditii-12/leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
@@ -762,6 +763,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Aditii-12/leetcode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aditii-12/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Aditii-12/leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditii-12/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/Aditii-12/leetcode/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Aditii-12/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aditii-12/leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -1103,6 +1105,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1510-stone-game-iv](https://github.com/Aditii-12/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aditii-12/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aditii-12/leetcode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditii-12/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1622-fancy-sequence](https://github.com/Aditii-12/leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1627-graph-connectivity-with-threshold](https://github.com/Aditii-12/leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1753-maximum-score-from-removing-stones](https://github.com/Aditii-12/leetcode/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
@@ -1694,6 +1697,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Aditii-12/leetcode/tree/main/0062-unique-paths/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditii-12/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/Aditii-12/leetcode/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aditii-12/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aditii-12/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
