@@ -199,6 +199,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aditii-12/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1627-graph-connectivity-with-threshold](https://github.com/Aditii-12/leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1642-furthest-building-you-can-reach](https://github.com/Aditii-12/leetcode/tree/main/1642-furthest-building-you-can-reach/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aditii-12/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/Aditii-12/leetcode/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Aditii-12/leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aditii-12/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -631,6 +632,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditii-12/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aditii-12/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Aditii-12/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aditii-12/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aditii-12/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Aditii-12/leetcode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Aditii-12/leetcode/tree/main/2779-maximum-beauty-of-an-array-after-applying-operation/) | Medium |
@@ -690,6 +692,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Aditii-12/leetcode/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Aditii-12/leetcode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Aditii-12/leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aditii-12/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aditii-12/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Aditii-12/leetcode/tree/main/1733-minimum-number-of-people-to-teach/) | Medium |
 | [1775-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/Aditii-12/leetcode/tree/main/1775-equal-sum-arrays-with-minimum-number-of-operations/) | Medium |
@@ -769,6 +772,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aditii-12/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Aditii-12/leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditii-12/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aditii-12/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/Aditii-12/leetcode/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Aditii-12/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aditii-12/leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -955,6 +959,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aditii-12/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aditii-12/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aditii-12/leetcode/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aditii-12/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Aditii-12/leetcode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Aditii-12/leetcode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditii-12/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
