@@ -455,6 +455,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0006-zigzag-conversion](https://github.com/Aditii-12/leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditii-12/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Aditii-12/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Aditii-12/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Aditii-12/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/Aditii-12/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Aditii-12/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
@@ -579,6 +580,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Aditii-12/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Aditii-12/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Aditii-12/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Aditii-12/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -741,6 +743,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditii-12/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Aditii-12/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Aditii-12/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Aditii-12/leetcode/tree/main/0046-permutations/) | Medium |
@@ -1775,6 +1778,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Aditii-12/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Aditii-12/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aditii-12/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditii-12/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditii-12/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
