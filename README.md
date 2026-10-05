@@ -484,6 +484,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0809-expressive-words](https://github.com/Aditii-12/leetcode/tree/main/0809-expressive-words/) | Medium |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Aditii-12/leetcode/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0839-similar-string-groups](https://github.com/Aditii-12/leetcode/tree/main/0839-similar-string-groups/) | Hard |
+| [0856-score-of-parentheses](https://github.com/Aditii-12/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Aditii-12/leetcode/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditii-12/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0984-string-without-aaa-or-bbb](https://github.com/Aditii-12/leetcode/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
@@ -1290,6 +1291,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0739-daily-temperatures](https://github.com/Aditii-12/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/Aditii-12/leetcode/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0853-car-fleet](https://github.com/Aditii-12/leetcode/tree/main/0853-car-fleet/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Aditii-12/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/Aditii-12/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditii-12/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/Aditii-12/leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
@@ -1783,6 +1785,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0020-valid-parentheses](https://github.com/Aditii-12/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Aditii-12/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Aditii-12/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0856-score-of-parentheses](https://github.com/Aditii-12/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aditii-12/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditii-12/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditii-12/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
