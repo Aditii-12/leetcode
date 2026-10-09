@@ -354,6 +354,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1405-longest-happy-string](https://github.com/Aditii-12/leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Aditii-12/leetcode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditii-12/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aditii-12/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aditii-12/leetcode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/Aditii-12/leetcode/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Aditii-12/leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
@@ -506,6 +507,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1400-construct-k-palindrome-strings](https://github.com/Aditii-12/leetcode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1405-longest-happy-string](https://github.com/Aditii-12/leetcode/tree/main/1405-longest-happy-string/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Aditii-12/leetcode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aditii-12/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditii-12/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Aditii-12/leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
@@ -1305,6 +1307,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Aditii-12/leetcode/tree/main/1130-minimum-cost-tree-from-leaf-values/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditii-12/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aditii-12/leetcode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aditii-12/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aditii-12/leetcode/tree/main/1574-shortest-subarray-to-be-removed-to-make-array-sorted/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditii-12/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Aditii-12/leetcode/tree/main/1673-find-the-most-competitive-subsequence/) | Medium |
@@ -1792,6 +1795,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1021-remove-outermost-parentheses](https://github.com/Aditii-12/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aditii-12/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditii-12/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aditii-12/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditii-12/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Aditii-12/leetcode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 ## Algorithm X
