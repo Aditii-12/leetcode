@@ -398,6 +398,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aditii-12/leetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aditii-12/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aditii-12/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Aditii-12/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aditii-12/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Aditii-12/leetcode/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aditii-12/leetcode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
@@ -1159,6 +1160,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aditii-12/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aditii-12/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aditii-12/leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Aditii-12/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aditii-12/leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aditii-12/leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Aditii-12/leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
