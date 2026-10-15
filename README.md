@@ -148,6 +148,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0969-pancake-sorting](https://github.com/Aditii-12/leetcode/tree/main/0969-pancake-sorting/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Aditii-12/leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0980-unique-paths-iii](https://github.com/Aditii-12/leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [0986-interval-list-intersections](https://github.com/Aditii-12/leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Aditii-12/leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditii-12/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -421,6 +422,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0835-image-overlap](https://github.com/Aditii-12/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Aditii-12/leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0934-shortest-bridge](https://github.com/Aditii-12/leetcode/tree/main/0934-shortest-bridge/) | Medium |
+| [0980-unique-paths-iii](https://github.com/Aditii-12/leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1034-coloring-a-border](https://github.com/Aditii-12/leetcode/tree/main/1034-coloring-a-border/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Aditii-12/leetcode/tree/main/1162-as-far-from-land-as-possible/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Aditii-12/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -769,6 +771,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0216-combination-sum-iii](https://github.com/Aditii-12/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Aditii-12/leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Aditii-12/leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0980-unique-paths-iii](https://github.com/Aditii-12/leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Aditii-12/leetcode/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/Aditii-12/leetcode/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -1021,6 +1024,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0477-total-hamming-distance](https://github.com/Aditii-12/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Aditii-12/leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Aditii-12/leetcode/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [0980-unique-paths-iii](https://github.com/Aditii-12/leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1009-complement-of-base-10-integer](https://github.com/Aditii-12/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Aditii-12/leetcode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Aditii-12/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -1815,4 +1819,8 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aditii-12/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Hamiltonian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/Aditii-12/leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 <!---LeetCode Topics End-->
