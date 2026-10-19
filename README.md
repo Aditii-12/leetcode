@@ -230,6 +230,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2029-stone-game-ix](https://github.com/Aditii-12/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditii-12/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aditii-12/leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aditii-12/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aditii-12/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2101-detonate-the-maximum-bombs](https://github.com/Aditii-12/leetcode/tree/main/2101-detonate-the-maximum-bombs/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/Aditii-12/leetcode/tree/main/2121-intervals-between-identical-elements/) | Medium |
@@ -925,6 +926,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditii-12/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Aditii-12/leetcode/tree/main/1921-eliminate-maximum-number-of-monsters/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aditii-12/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aditii-12/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Aditii-12/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2285-maximum-total-importance-of-roads](https://github.com/Aditii-12/leetcode/tree/main/2285-maximum-total-importance-of-roads/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Aditii-12/leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -992,6 +994,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Aditii-12/leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [1898-maximum-number-of-removable-characters](https://github.com/Aditii-12/leetcode/tree/main/1898-maximum-number-of-removable-characters/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aditii-12/leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aditii-12/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2187-minimum-time-to-complete-trips](https://github.com/Aditii-12/leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Aditii-12/leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Aditii-12/leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
