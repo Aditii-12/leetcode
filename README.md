@@ -313,6 +313,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3843-first-element-with-unique-frequency](https://github.com/Aditii-12/leetcode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditii-12/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aditii-12/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Aditii-12/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Aditii-12/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3895-count-digit-appearances](https://github.com/Aditii-12/leetcode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/Aditii-12/leetcode/tree/main/3896-minimum-operations-to-transform-array-into-alternating-prime/) | Medium |
@@ -458,6 +459,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditii-12/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aditii-12/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Aditii-12/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Aditii-12/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/Aditii-12/leetcode/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -638,6 +640,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aditii-12/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aditii-12/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Aditii-12/leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Aditii-12/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1052,6 +1055,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aditii-12/leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aditii-12/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/Aditii-12/leetcode/tree/main/3766-minimum-operations-to-make-binary-palindrome/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Aditii-12/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Aditii-12/leetcode/tree/main/3910-count-connected-subgraphs-with-even-node-sum/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
