@@ -106,6 +106,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0410-split-array-largest-sum](https://github.com/Aditii-12/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0419-battleships-in-a-board](https://github.com/Aditii-12/leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aditii-12/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aditii-12/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0475-heaters](https://github.com/Aditii-12/leetcode/tree/main/0475-heaters/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Aditii-12/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/Aditii-12/leetcode/tree/main/0486-predict-the-winner/) | Medium |
@@ -1138,6 +1139,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/Aditii-12/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Aditii-12/leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aditii-12/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Aditii-12/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/Aditii-12/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Aditii-12/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
