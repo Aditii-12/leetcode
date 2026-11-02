@@ -107,6 +107,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0419-battleships-in-a-board](https://github.com/Aditii-12/leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aditii-12/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aditii-12/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aditii-12/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0475-heaters](https://github.com/Aditii-12/leetcode/tree/main/0475-heaters/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Aditii-12/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/Aditii-12/leetcode/tree/main/0486-predict-the-winner/) | Medium |
@@ -899,6 +900,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aditii-12/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Aditii-12/leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aditii-12/leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aditii-12/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0475-heaters](https://github.com/Aditii-12/leetcode/tree/main/0475-heaters/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditii-12/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aditii-12/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
@@ -1140,6 +1142,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [0060-permutation-sequence](https://github.com/Aditii-12/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Aditii-12/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aditii-12/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aditii-12/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0477-total-hamming-distance](https://github.com/Aditii-12/leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/Aditii-12/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Aditii-12/leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
