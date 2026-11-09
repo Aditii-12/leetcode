@@ -201,6 +201,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1584-min-cost-to-connect-all-points](https://github.com/Aditii-12/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Aditii-12/leetcode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aditii-12/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aditii-12/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1627-graph-connectivity-with-threshold](https://github.com/Aditii-12/leetcode/tree/main/1627-graph-connectivity-with-threshold/) | Hard |
 | [1642-furthest-building-you-can-reach](https://github.com/Aditii-12/leetcode/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aditii-12/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -588,6 +589,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/Aditii-12/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aditii-12/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aditii-12/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aditii-12/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aditii-12/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Aditii-12/leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
@@ -1128,6 +1130,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Aditii-12/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditii-12/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1514-path-with-maximum-probability](https://github.com/Aditii-12/leetcode/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aditii-12/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1642-furthest-building-you-can-reach](https://github.com/Aditii-12/leetcode/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/Aditii-12/leetcode/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Aditii-12/leetcode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
@@ -1310,6 +1313,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Aditii-12/leetcode/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aditii-12/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aditii-12/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2336-smallest-number-in-infinite-set](https://github.com/Aditii-12/leetcode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Monotonic Queue
