@@ -11,7 +11,6 @@ public:
             vector<int>& pos=it.second;
             int k=pos.size();
             vector<long long>pre(k,0);
-            pre[0]=pos[0];
             for(int i=1;i<k;i++){
                 pre[i]=pre[i-1]+pos[i];
             }
