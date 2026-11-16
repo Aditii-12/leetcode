@@ -547,6 +547,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Aditii-12/leetcode/tree/main/2116-check-if-a-parentheses-string-can-be-valid/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/Aditii-12/leetcode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aditii-12/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Aditii-12/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2262-total-appeal-of-a-string](https://github.com/Aditii-12/leetcode/tree/main/2262-total-appeal-of-a-string/) | Hard |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Aditii-12/leetcode/tree/main/2337-move-pieces-to-obtain-a-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Aditii-12/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -596,6 +597,7 @@ This repository contains my **accepted LeetCode solutions** for interview prepar
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aditii-12/leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aditii-12/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Aditii-12/leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Aditii-12/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/Aditii-12/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Aditii-12/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Aditii-12/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
